@@ -5,6 +5,7 @@ import aiohttp
 import pandas as pd
 from bs4 import BeautifulSoup
 import logging
+import json
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -79,12 +80,15 @@ async def main():
     for _, row in df.iterrows():
         await input_queue.put(row.to_dict())
 
-    async with aiohttp.ClientSession() as session:
+    # Menggunakan TCPConnector dengan ssl_context yang telah dikonfigurasi
+    connector = aiohttp.TCPConnector(ssl=ssl_context)
+    async with aiohttp.ClientSession(connector=connector) as session:
         # Membuat worker tasks
         worker_tasks = []
         for _ in range(5):  # Menggunakan 5 worker
             task = asyncio.create_task(worker(
-                session, input_queue, output_queue))
+                session, input_queue, output_queue)
+                )
             worker_tasks.append(task)
 
         # Menunggu semua job selesai diproses
@@ -102,11 +106,11 @@ async def main():
     while not output_queue.empty():
         results.append(await output_queue.get())
 
-    # Membuat DataFrame dari hasil dan menyimpan ke CSV
-    result_df = pd.DataFrame(results)
-    result_df.to_csv('jobs_with_details.csv', index=False)
-    logger.info("Finished processing. Results saved to jobs_with_details.csv")
+    # Menyimpan hasil ke file JSON
+    with open('jobs_with_details.json', 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
 
+    logger.info("Finished processing. Results saved to jobs_with_details.json")
 
 if __name__ == "__main__":
     asyncio.run(main())
