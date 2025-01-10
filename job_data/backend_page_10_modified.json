@@ -1,0 +1,1428 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6076",
+                        "description": "Konsultasi & Strategi"
+                    },
+                    "subclassification": {
+                        "id": "6082",
+                        "description": "Strategi & Perencanaan"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "80191514",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T16:49:43Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "regional-operations-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80191514",
+                "section": "MAIN",
+                "sectionRank": 181,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We are looking for a dedicated Regional Operations Manager with primary responsibility to oversee the content operations of merchants within our sy...",
+            "title": "Regional Operations Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6076",
+                        "description": "Konsultasi & Strategi"
+                    },
+                    "subclassification": {
+                        "id": "6082",
+                        "description": "Strategi & Perencanaan"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "80191641",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T16:49:44Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "assistant-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80191641",
+                "section": "MAIN",
+                "sectionRank": 182,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We are looking for a dedicated Merchant Sales & Onboarding Assistant Manager with primary responsibility to oversee the merchant acquisition and ac...",
+            "title": "Merchant Acquisition, Sales & Onboarding Assistant Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6301",
+                        "description": "Uji Coba & Penjaminan Mutu"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "80028863",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T01:30:00Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "quality-assurance-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80028863",
+                "section": "MAIN",
+                "sectionRank": 183,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Collaborate well with developers and SDET in supporting each other to ensure high-quality products\nCreate test plan and test cases based on the pro...",
+            "title": "Quality Assurance Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6008",
+                        "description": "Pemasaran & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6010",
+                        "description": "Pemasaran Digital & Pencarian"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "79893898",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T15:14:39Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79893898",
+                "section": "MAIN",
+                "sectionRank": 184,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We are looking for a dedicated Merchant Content Associate with primary responsibility to oversee the content management of merchants within our sys...",
+            "title": "Merchant Content Associate",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6301",
+                        "description": "Uji Coba & Penjaminan Mutu"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "79893928",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T15:13:43Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-quality-assurance-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79893928",
+                "section": "MAIN",
+                "sectionRank": 185,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We are looking for a Senior QA Engineer for Food and Supermarket product testing who has experience in QA engineering, automation engineering, or a...",
+            "title": "Senior Software QA Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "79584250",
+            "isFeatured": false,
+            "listingDate": "2024-10-17T08:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "engineering-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79584250",
+                "section": "MAIN",
+                "sectionRank": 186,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "As the Front End Engineering Manager, you will lead a team of engineers in developing high-quality front-end solutions, working closely with backen...",
+            "title": "Front End Engineering Manager - Financing (PayLater)",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "79893918",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T15:13:54Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79893918",
+                "section": "MAIN",
+                "sectionRank": 187,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We are looking for Engineers to join our team. You will have opportunities to work on driver apps that are used by millions of driver partners ever...",
+            "title": "Software Engineer, Mobile (iOS) - Fulfilment",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "79687707",
+            "isFeatured": false,
+            "listingDate": "2024-10-22T09:30:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79687707",
+                "section": "MAIN",
+                "sectionRank": 188,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "As a Competitive Intelligence engineer, you’ll be working with other BUs solving various dynamic problems while designing and maintaining highly av...",
+            "title": "Software Engineer -  Competitive Intelligence",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "78838137",
+            "isFeatured": false,
+            "listingDate": "2024-09-13T11:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "business-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "78838137",
+                "section": "MAIN",
+                "sectionRank": 189,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Business Analysts at Traveloka are key drivers of business process optimization. In this role, you will design and propose data flow, data modeling...",
+            "title": "Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "77432380",
+            "isFeatured": false,
+            "listingDate": "2024-09-15T12:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "technical-business-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "77432380",
+                "section": "MAIN",
+                "sectionRank": 190,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "This role is with Deloitte Digital Southeast Asia. Across all clients and sectors, we believe great customer experiences create greater impact. Tha...",
+            "title": "Analyst - Deloitte Digital - Business Analyst (Technical) - ID",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Alegrium"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79066394",
+            "isFeatured": false,
+            "listingDate": "2024-09-24T16:58:28Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "full-stack-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79066394",
+                "section": "MAIN",
+                "sectionRank": 191,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Alegrium is a casual game developer based in Jakarta, Indonesia. We've been developing lot of games since 2011. Some of our games which go viral we...",
+            "title": "Full Stack Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61116794",
+                "description": "Trusmi Group"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Trusmi Group",
+            "companyProfileStructuredDataId": 437984,
+            "displayType": "standard",
+            "id": "79869079",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T01:43:38Z",
+            "listingDateDisplay": "25 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79869079",
+                "section": "MAIN",
+                "sectionRank": 192,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Collaborate and communicate with API & commercial teams in handling company API Development/Integration needs.\nWill be responsible to handle commun...",
+            "title": "Technical Operation (API)",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Gefami Services Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79892673",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T05:59:48Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kecamatan Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "full-stack-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79892673",
+                "section": "MAIN",
+                "sectionRank": 193,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Minimum 2-3 Years experience in Fullstack Developer\nFamiliar using NodeJS, ReactJS\nAble to join ASAP\nGood attitude, time management and responsibil...",
+            "title": "Fullstack Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTMiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60894632",
+                "description": "PT Magna Finance Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79660084",
+            "isFeatured": false,
+            "listingDate": "2024-10-19T05:54:54Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79660084",
+                "section": "MAIN",
+                "sectionRank": 194,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Magna New Mobility is seeking a Lead Software Engineer to oversee the development of our core software product. As a Lead Software Engineer with cl...",
+            "title": "Lead Software Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ],
+                "displayText": "Kantor, Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62760015",
+                "description": "PT HARMONISASI TEKNOLOGI NUSANTARA"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80078726",
+            "isFeatured": false,
+            "listingDate": "2024-11-09T09:40:26Z",
+            "listingDateDisplay": "14 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Denpasar, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Denpasar Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80078726",
+                "section": "MAIN",
+                "sectionRank": 195,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Nice company to grow up and learn something new and you also can work from BALI!",
+            "title": "Backend Developer (Project Based)",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTUiCn0=",
+            "workTypes": [
+                "Kasual"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60187646",
+                "description": "PT Siemens Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Siemens",
+            "companyProfileStructuredDataId": 2740,
+            "displayType": "standard",
+            "id": "80308889",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T04:23:54Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "applications-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80308889",
+                "section": "MAIN",
+                "sectionRank": 196,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "We are seeking a motivated and detail-oriented Manufacturing Apps Developer Intern to assist in the development, maintenance, and enhancement of di...",
+            "title": "Manufacturing Apps Developer Internship",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTYiCn0=",
+            "workTypes": [
+                "Full time",
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61012903",
+                "description": "PT Fliptech Lentera Inspirasi Pertiwi"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "PT Fliptech Lentera Inspirasi Pertiwi",
+            "companyProfileStructuredDataId": 700849,
+            "displayType": "standard",
+            "id": "80135748",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T10:26:10Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80135748",
+                "section": "MAIN",
+                "sectionRank": 197,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "We are looking for a Senior Software Engineer - Backend for Reconciliation team. As a Senior Backend Engineer, you will be responsible to design an...",
+            "title": "Senior Software Engineer (Backend) - Reconciliation",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Gefami Services Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80033875",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T04:42:47Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kecamatan Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": ".net-software-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80033875",
+                "section": "MAIN",
+                "sectionRank": 198,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "As a Backend developer you will be responsible for creating API and other server side logic, working together with Frontend Developer, handling and...",
+            "title": ".Net Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTgiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Schneider Electric Global"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Schneider Electric",
+            "companyProfileStructuredDataId": 2948,
+            "displayType": "standard",
+            "id": "79832604",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T04:17:28Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Batam, Kepulauan Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Batam Kepulauan Riau"
+                        },
+                        {
+                            "contextualName": "Kepulauan Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "procurement",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "79832604",
+                "section": "MAIN",
+                "sectionRank": 199,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "2. Support the procurement team in conducting market research & supplier negotiations\n3. Contribute to the analysis of procurement data and prepara...",
+            "title": "Procurement Intern",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61118758",
+                "description": "Merkle Innovation"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80110862",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T08:30:00Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": ".net-software-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+                "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+                "jobId": "80110862",
+                "section": "MAIN",
+                "sectionRank": 200,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Senior Backend .NET Developer, you’ll be instrumental in shaping the backbone of our applications, designing, developing, and maintaining high...",
+            "title": "Sr. Back End .Net Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIyOWExYzcyZi02NWZiLTRjMDktYTk2MS0yNDE3ZjE0ZGFjODFfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        }
+    ],
+    "totalCount": 301,
+    "info": {
+        "timeTaken": 29,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3631700522469387321",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "0a489250-aeb8-4710-96f6-d24773f12445",
+        "token": "0~0a489250-aeb8-4710-96f6-d24773f12445",
+        "keywords": "backend",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 10,
+        "totalJobCount": 301,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "221",
+            "mordor:result_count_vec": "1",
+            "mordor:rt": "21",
+            "mordor_vs:retrieved_count": "38099",
+            "mordor:count_vec": "1",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.549",
+            "mordor:count_rst": "223",
+            "mordor:count_ir": "79",
+            "mordor:result_count_ir": "79"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "b9869c87-c0f6-4f6b-a8be-616a6b7172c0",
+        "usersessionid": "b9869c87-c0f6-4f6b-a8be-616a6b7172c0",
+        "eventcapturesessionid": "b9869c87-c0f6-4f6b-a8be-616a6b7172c0",
+        "page": "10",
+        "seekselectallpages": "true",
+        "keywords": "backend",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "30185ff3-cd95-42a0-bf2e-1ea49aceb389"
+    }
+}

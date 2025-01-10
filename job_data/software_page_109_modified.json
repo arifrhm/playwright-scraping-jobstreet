@@ -1,0 +1,1635 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60893854",
+                "description": "PT Penguin Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/bbacfcaa-4c02-4c67-b326-3b3da448dbc4.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6092",
+                        "description": "Manufaktur, Transportasi & Logistik"
+                    },
+                    "subclassification": {
+                        "id": "6103",
+                        "description": "Produksi, Perencanaan & Penjadwalan"
+                    }
+                }
+            ],
+            "companyName": "Penguin Indonesia",
+            "companyProfileStructuredDataId": 656688,
+            "displayType": "standard",
+            "id": "79901740",
+            "isFeatured": false,
+            "listingDate": "2024-11-01T03:04:53Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "materials-planner",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79901740",
+                "section": "MAIN",
+                "sectionRank": 2161,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "-",
+            "title": "Material Planner Supervisor",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62450941",
+                "description": "Bali Love"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/53275d0c-4927-41b8-9453-76e35671d864.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6251",
+                        "description": "Administrasi & Dukungan Perkantoran"
+                    },
+                    "subclassification": {
+                        "id": "6253",
+                        "description": "Administrasi Klien & Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Bali Love",
+            "companyProfileStructuredDataId": 702702,
+            "displayType": "standard",
+            "id": "79939624",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T04:17:29Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Denpasar, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Denpasar Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "administration",
+            "salaryLabel": "3.500.000 - 4.500.000",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79939624",
+                "section": "MAIN",
+                "sectionRank": 2162,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Bali.Love is an Australian wedding company based in Bali and now looking for Catalog Admin as part of our growing company!",
+            "title": "Catalogue Admin",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60902026",
+                "description": "PT Tradecorp Indonesia"
+            },
+            "bulletPoints": [
+                "Allowance",
+                "Meals"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6c4257f1-b439-4876-8702-59daf47df4b3.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6027",
+                        "description": "Teknik Sipil/Struktural"
+                    }
+                }
+            ],
+            "companyName": "Tradecorp Indonesia",
+            "companyProfileStructuredDataId": 437855,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79640559",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T03:48:28Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Sumbawa",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Sumbawa Nusa Tenggara Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "structural-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79640559",
+                "section": "MAIN",
+                "sectionRank": 2163,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Allowance\nMeals\nTransport",
+            "title": "Structure Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMyIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60296594",
+                "description": "PT Fiberhome Technologies Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/f382eba5-1d9e-4f1b-88f7-3d93ca1a46c1.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6267",
+                        "description": "Desain Busana & Tekstil"
+                    }
+                }
+            ],
+            "companyName": "FiberHome Telecommunication Technologies",
+            "companyProfileStructuredDataId": 393725,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79890594",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T09:39:40Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "designer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79890594",
+                "section": "MAIN",
+                "sectionRank": 2164,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "working experience related to design in FTTH OSP project",
+            "title": "Designer IMI Jakarta",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfNCIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79934019",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:51:16Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Makassar, Sulawesi Selatan",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Makassar Sulawesi Selatan"
+                        },
+                        {
+                            "contextualName": "Sulawesi Selatan"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79934019",
+                "section": "MAIN",
+                "sectionRank": 2165,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Makassar)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfNSIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60960115",
+                "description": "PT YOFC International Indonesia"
+            },
+            "bulletPoints": [
+                "Monthly Bonus",
+                "THR",
+                "BPJS"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/4b740dce-76a0-4c26-b767-7901bdeabf92.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6092",
+                        "description": "Manufaktur, Transportasi & Logistik"
+                    },
+                    "subclassification": {
+                        "id": "6103",
+                        "description": "Produksi, Perencanaan & Penjadwalan"
+                    }
+                }
+            ],
+            "companyName": "YOFC International",
+            "companyProfileStructuredDataId": 406470,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79890596",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T09:39:54Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Karawang, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Karawang Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "process-engineer",
+            "salaryLabel": "Rp 6.900.000 – Rp 7.900.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79890596",
+                "section": "MAIN",
+                "sectionRank": 2166,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Control and optimize all aspects of the production process in shift time to achieve output and quality targets, determine quality...",
+            "title": "Assistant Process Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933968",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:49:43Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Pekanbaru, Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Pekanbaru Riau"
+                        },
+                        {
+                            "contextualName": "Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933968",
+                "section": "MAIN",
+                "sectionRank": 2167,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Pekanbaru)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfNyIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933924",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:48:21Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Denpasar, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Denpasar Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933924",
+                "section": "MAIN",
+                "sectionRank": 2168,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Denpasar)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfOCIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933597",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:38:19Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bekasi, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bekasi Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933597",
+                "section": "MAIN",
+                "sectionRank": 2169,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Bekasi)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfOSIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933663",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:40:22Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Timur, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Timur Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933663",
+                "section": "MAIN",
+                "sectionRank": 2170,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Jakarta Timur)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTAiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933711",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:41:37Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Utara, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Utara Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933711",
+                "section": "MAIN",
+                "sectionRank": 2171,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Jakarta Utara)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTEiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933754",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:42:59Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933754",
+                "section": "MAIN",
+                "sectionRank": 2172,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Jakarta Barat)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTIiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933813",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:44:20Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933813",
+                "section": "MAIN",
+                "sectionRank": 2173,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Jakarta Selatan)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTMiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60919625",
+                "description": "PT Happy Pet Indonesia"
+            },
+            "bulletPoints": [
+                "Health Insurance Coverage"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ac156278-1647-4370-a3f6-64397eeeeafc.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1200",
+                        "description": "Akuntansi"
+                    },
+                    "subclassification": {
+                        "id": "1303",
+                        "description": "Hutang Usaha"
+                    }
+                }
+            ],
+            "companyName": "Happy Pet Indonesia",
+            "companyProfileStructuredDataId": 651280,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79866165",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T09:46:15Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "accounts-payable",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79866165",
+                "section": "MAIN",
+                "sectionRank": 2174,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "We are looking for a detail-oriented and motivated junior accountant to join our Finance team.",
+            "title": "Junior Accountant - Account Payable",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60298413",
+                "description": "PT. Majoo Teknologi Indonesia"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan & Ketenagakerjaan",
+                "Jenjang Karir",
+                "Tunjangan & Insentif"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2f95e882-7299-4168-bd08-1e649e44ebe5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Majoo Teknologi Indonesia",
+            "companyProfileStructuredDataId": 439305,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79933880",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:46:47Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang Selatan, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Selatan Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79933880",
+                "section": "MAIN",
+                "sectionRank": 2175,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Sebagai Sales Executive, kamu berkesempatan untuk bertemu langsung dengan UMKM Indonesia, memahami bisnis, dan membantu mereka naik kelas.",
+            "title": "Sales Executive (Tangerang & Tangerang Selatan)",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTUiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60299738",
+                "description": "Wahaha"
+            },
+            "bulletPoints": [
+                "Be part of a dynamic environment that prioritizes continuous improvement",
+                "We invest in our team’s professional growth through training",
+                "Vibrant Team Culture"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/389b67ef-b142-4711-b974-7d03536e5d7f.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1212",
+                        "description": "Hospitaliti & Pariwisata"
+                    },
+                    "subclassification": {
+                        "id": "6055",
+                        "description": "Manajemen"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79922249",
+            "isFeatured": false,
+            "listingDate": "2024-11-02T07:19:08Z",
+            "listingDateDisplay": "22 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Seminyak, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Seminyak Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "restaurant-manager",
+            "salaryLabel": "Rp 9,000,000 – Rp 12,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79922249",
+                "section": "MAIN",
+                "sectionRank": 2176,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "A Restaurant Manager is responsible for managing restaurant operations to deliver an excellent Guest & Member experience while training staff &working",
+            "title": "RESTAURANT MANAGER",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61009095",
+                "description": "MAISON DEKOR INDO"
+            },
+            "bulletPoints": [
+                "Health Benefit"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d3e50b05-5303-4c5b-9de0-a8192285d115.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6264",
+                        "description": "Arsitektur"
+                    }
+                }
+            ],
+            "companyName": "Maison Decor Indo",
+            "companyProfileStructuredDataId": 439299,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79893675",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T17:38:47Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "project-administrator",
+            "salaryLabel": "Rp 5.000.000 – Rp 5.500.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79893675",
+                "section": "MAIN",
+                "sectionRank": 2177,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Project Admin Interior & Architecture",
+            "title": "Project Admin Interior & Architecture",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60887402",
+                "description": "Taman Safari Indonesia"
+            },
+            "bulletPoints": [
+                "Benefit",
+                "Development Programm"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6f203e5c-d4f3-4bfc-9276-dd9911c05ae1.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1212",
+                        "description": "Hospitaliti & Pariwisata"
+                    },
+                    "subclassification": {
+                        "id": "6057",
+                        "description": "Lainnya"
+                    }
+                }
+            ],
+            "companyName": "Taman Safari Indonesia",
+            "companyProfileStructuredDataId": 428679,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79926418",
+            "isFeatured": false,
+            "listingDate": "2024-11-03T06:10:07Z",
+            "listingDateDisplay": "21 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Prigen, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Prigen Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "head-of-security",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79926418",
+                "section": "MAIN",
+                "sectionRank": 2178,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Let’s start our journey together, #LetsGoSafari",
+            "title": "Chief Security",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTgiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61074551",
+                "description": "Faithfull The Brand"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/eab760fe-712a-4b11-a377-51f7f73d35ee.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6267",
+                        "description": "Desain Busana & Tekstil"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80000560",
+            "isFeatured": false,
+            "listingDate": "2024-11-06T07:12:19Z",
+            "listingDateDisplay": "18 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Badung, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Badung Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "patternmaker",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "80000560",
+                "section": "MAIN",
+                "sectionRank": 2179,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "\nIn this role you will be required to study blueprints design models, create paper templates and design the final pattern for mass production.\n",
+            "title": "Digital Pattern Maker",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60915733",
+                "description": "PT Indonesia Technical Machinery"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/34c633dd-2ebe-48b2-998e-6d98f33deadb.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6270",
+                        "description": "Desain Interior"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79888414",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T09:07:29Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kelapa Gading, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kelapa Gading Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "manager",
+            "salaryLabel": "Rp 12.000.000 – Rp 18.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+                "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+                "jobId": "79888414",
+                "section": "MAIN",
+                "sectionRank": 2180,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Desain interior mencakup konsultasi klien, perancangan tata letak, pemilihan material, pengelolaan proyek & penambahan elemen akhir seperti karya seni",
+            "title": "Manager Lapangan Design Interior",
+            "tracking": "ewogICJ0b2tlbiI6ICJmY2NmNzk4ZS1lOWRjLTQ0YjgtOTI2ZC01OWU2NTIzMjBmMDJfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 3920,
+    "info": {
+        "timeTaken": 38,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API4338724991479539504",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "6717779c-f19c-4f42-b590-8441ef5ea904",
+        "token": "0~6717779c-f19c-4f42-b590-8441ef5ea904",
+        "keywords": "software",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 109,
+        "totalJobCount": 3920,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "403",
+            "mordor:result_count_vec": "1",
+            "mordor:rt": "30",
+            "mordor_vs:retrieved_count": "38101",
+            "mordor:count_vec": "1",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.658",
+            "mordor:count_rst": "407",
+            "mordor:count_ir": "3519",
+            "mordor:result_count_ir": "3516"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "109",
+        "seekselectallpages": "true",
+        "keywords": "software",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

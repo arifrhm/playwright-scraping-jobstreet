@@ -1,0 +1,1551 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60296279",
+                "description": "Cimory Group"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/95875124-dd96-49f3-a546-5326583227fd.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Cimory Group",
+            "companyProfileStructuredDataId": 431585,
+            "displayType": "standard",
+            "id": "80204805",
+            "isFeatured": false,
+            "listingDate": "2024-11-19T00:47:00Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-infrastructure-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80204805",
+                "section": "MAIN",
+                "sectionRank": 21,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "-",
+            "title": "IT Infrastructure Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60908880",
+                "description": "PT Integrasi Logistik Cipta Solusi"
+            },
+            "bulletPoints": [
+                "Manager IT",
+                "Lead Developer"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/34f6ccdf-8c8b-40af-8089-e868160a99ba.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6302",
+                        "description": "Pengembangan & Produksi Web"
+                    }
+                }
+            ],
+            "companyName": "Logistics Integration Solution Creation",
+            "companyProfileStructuredDataId": 427229,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80183968",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T07:56:59Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "web-developer",
+            "salaryLabel": "Rp 13.000.000 – Rp 18.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80183968",
+                "section": "MAIN",
+                "sectionRank": 22,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "ILCS (Indonesia Logistics Community Service) was established by PT Pelindo II (Persero) or Indonesia Port Corporation (IPC), a leading SOEs in the...",
+            "title": "Lead Technical Web Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMiIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61050028",
+                "description": "PT Digital Laskar Pelangi (Orderfaz)"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/991bbdaf-f917-48d3-ac9c-adf52715b546.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Orderfaz",
+            "companyProfileStructuredDataId": 701054,
+            "displayType": "standard",
+            "id": "79938057",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T03:34:31Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "Rp 5.000.000 – Rp 7.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79938057",
+                "section": "MAIN",
+                "sectionRank": 23,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "We are looking for a DevOps Engineer to automate the development lifecycle, manage Kubernetes on GCP, and oversee AWS infrastructure.",
+            "title": "DevOps Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60866295",
+                "description": "PT Lippo General Insurance Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a325fb1e-ffc8-40d9-a0ed-5697d0b1369d.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Lippo General Insurance",
+            "companyProfileStructuredDataId": 414068,
+            "displayType": "standard",
+            "id": "79932901",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:15:04Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops/cloud-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79932901",
+                "section": "MAIN",
+                "sectionRank": 24,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "DevOps Engineer & AWS Cloud",
+            "title": "DevOps & Cloud Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60865622",
+                "description": "PT Ecogreen Oleochemicals"
+            },
+            "bulletPoints": [
+                "Excellent Benefit",
+                "Reguler working hours",
+                "Supervisor Level"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/4c54a737-775b-487e-ae0b-dac6f1502ebd.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Ecogreen Oleochemicals",
+            "companyProfileStructuredDataId": 426780,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80030850",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T07:31:35Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Batam, Kepulauan Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Batam Kepulauan Riau"
+                        },
+                        {
+                            "contextualName": "Kepulauan Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "full-stack-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80030850",
+                "section": "MAIN",
+                "sectionRank": 25,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Analyze work process, provide improvement ideas, design and implement applications by utilizing technology to digitize work processes.",
+            "title": "Junior Full Stack Software Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60865573",
+                "description": "PT JAC Consulting Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6f89d965-c9a1-45e7-a478-b2b5ccb01b66.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "JAC Consulting Indonesia",
+            "companyProfileStructuredDataId": 652550,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79888431",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T08:31:47Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Cilegon, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Cilegon Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-infrastructure-engineer",
+            "salaryLabel": "Rp 10.000.000 – Rp 13.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79888431",
+                "section": "MAIN",
+                "sectionRank": 26,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Company: Japanese\nIndustry: IT\nLocation: Cilegon ",
+            "title": "IT Infrastructure Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60314764",
+                "description": "PT. Sama Sama Sukses"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/94422a81-df9d-4ec2-99a2-0c32b83805ef.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79882816",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T05:54:18Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "Rp 8.000.000 – Rp 10.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79882816",
+                "section": "MAIN",
+                "sectionRank": 27,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Be a Devops Engineer in our IT team",
+            "title": "Devops Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "80368246",
+            "isFeatured": false,
+            "listingDate": "2024-11-22T12:00:00Z",
+            "listingDateDisplay": "1 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "java-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80368246",
+                "section": "MAIN",
+                "sectionRank": 28,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "You will perform primary and secondary research, conduct analyses and appropriate modelling tasks that feeds directly into the development of techn...",
+            "title": "Senior Consultant - Innovation Cloud Development Center - Java Developer - ID 1",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61827729",
+                "description": "PT. Metrocomjaddi Technology"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ca388291-905a-4d40-9495-3f8beff69c85.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "PT. Metrocomjaddi Technology",
+            "companyProfileStructuredDataId": 700868,
+            "displayType": "standard",
+            "id": "79890623",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T09:42:03Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "Rp 8.000.000 – Rp 12.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79890623",
+                "section": "MAIN",
+                "sectionRank": 29,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": " Mengembangkan, mengelola, dan memelihara alur kerja Continuous Integration/Continuous Deployment (CI/CD) yang otomatis untuk perangkat lunak...",
+            "title": "DevOps Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfOSIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61067420",
+                "description": "PT Sapta Tunas Teknologi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/b04489da-5293-487a-9142-1bc5ec533748.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6282",
+                        "description": "Arsitek"
+                    }
+                }
+            ],
+            "companyName": "Sapta Tunas Technology",
+            "companyProfileStructuredDataId": 639100,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79748460",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T04:11:31Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "solutions-architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79748460",
+                "section": "MAIN",
+                "sectionRank": 30,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Requirement:- Strong level of technical ability with an understanding of business needs, preferably with solution architect experience- Proven IT...",
+            "title": "Solution Architect (IT Infrastructure)",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62773433",
+                "description": "PT Lg Sinarmas Technology Solutions"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6fdc9ecd-a398-4253-9d97-265e05b958d2.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6282",
+                        "description": "Arsitek"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80296370",
+            "isFeatured": false,
+            "listingDate": "2024-11-20T07:49:32Z",
+            "listingDateDisplay": "4 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "salesforce-solution-architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80296370",
+                "section": "MAIN",
+                "sectionRank": 31,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "The Salesforce Solution Architect leads one or more workstreams in sophisticated enterprise customer engagements.",
+            "title": "Salesforce Solution Architect",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTEiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60186954",
+                "description": "PT Karya Solusi Prima Sejahtera"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8c3ed22b-4271-4ffe-a42b-15e04ed9fa2f.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Prima Sejahtera Solutions Works",
+            "companyProfileStructuredDataId": 434188,
+            "displayType": "standard",
+            "id": "80092774",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T03:01:32Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Purwakarta, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Purwakarta Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "cloud-engineer",
+            "salaryLabel": "Rp 9.000.000 – Rp 9.500.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80092774",
+                "section": "MAIN",
+                "sectionRank": 32,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Escallation engineer of cloudeka Deka-GPU ",
+            "title": "Cloud Engineer (Kubernetes)",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTIiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62755018",
+                "description": "Uswah Salam AlAzhar"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/964da9bc-26b4-4b98-84aa-b21a2960ece4.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80024753",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T01:36:54Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "engineering",
+            "salaryLabel": "Rp 5.500.000 – Rp 8.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80024753",
+                "section": "MAIN",
+                "sectionRank": 33,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "-",
+            "title": "Cloud Engineering",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTMiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60284608",
+                "description": "PT Justika Siar Publika"
+            },
+            "bulletPoints": [
+                "Work From Home Option",
+                "Private Insurance",
+                "Communication Allowance"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/dda6ef0c-b9d7-41c4-aa38-2ed026f3c04a.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Hukumoline",
+            "companyProfileStructuredDataId": 663973,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80064802",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T11:20:38Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "site-reliability-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80064802",
+                "section": "MAIN",
+                "sectionRank": 34,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "your role is critical in ensuring the reliability, availability, and performance of our infrastructure and applications.",
+            "title": "Site Reliability Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60893915",
+                "description": "PT Dwidasa Samsara Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/424b82e2-00ef-495f-bd8c-72ae74fc24ff.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Dwidasa Samsara Indonesia",
+            "companyProfileStructuredDataId": 432155,
+            "displayType": "standard",
+            "id": "79947398",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T08:49:52Z",
+            "listingDateDisplay": "19 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "cloud-support-engineer",
+            "salaryLabel": "Rp 5.000.000 – Rp 7.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79947398",
+                "section": "MAIN",
+                "sectionRank": 35,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Join Us as a Cloud Engineer - Shape the Future of Cloud Infrastructure",
+            "title": "Cloud Support Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60188564",
+                "description": "PT XL Axiata Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "XL Axiata",
+            "companyProfileStructuredDataId": 413665,
+            "displayType": "standard",
+            "id": "79557102",
+            "isFeatured": false,
+            "listingDate": "2024-10-16T18:35:59Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-person",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79557102",
+                "section": "MAIN",
+                "sectionRank": 36,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Responsible for creating and maintaining automated deployment pipelines, optimizing the performance of our systems, and ensuring the stability and ...",
+            "title": "DevOps",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTYiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60236056",
+                "description": "PT Simplefi Teknologi Indonesia (Jakarta)"
+            },
+            "bulletPoints": [
+                "Hybrid",
+                "Private Health Insurance"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1d7c90f2-f8cb-49fe-a6d0-09f47b01a043.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Simplefi Technology Indonesia",
+            "companyProfileStructuredDataId": 437009,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79825107",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T03:27:31Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "79825107",
+                "section": "MAIN",
+                "sectionRank": 37,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Sr. DevOps Engineer who'll oversee the integration of development & operations processes, efficient deployment, automation, and infrastructure",
+            "title": "Senior DevOps Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60864557",
+                "description": "PT Datacomm Diangraha"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/cf6bc01f-380b-41a9-9b54-b3b956d89690.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Datacomm Diangraha",
+            "companyProfileStructuredDataId": 431854,
+            "displayType": "standard",
+            "id": "80131250",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T09:03:19Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80131250",
+                "section": "MAIN",
+                "sectionRank": 38,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Bertanggung jawab untuk mengatur SLA , menyusun program kerja, dan action plan divisi Cloud Operation Center.",
+            "title": "Cloud Operation Center (COC)",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60174525",
+                "description": "Shipper"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/fb58da5d-86ae-4653-abf8-f87dbccdd902.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Shipper",
+            "companyProfileStructuredDataId": 436964,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80160497",
+            "isFeatured": false,
+            "listingDate": "2024-11-13T09:59:21Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "site-reliability-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80160497",
+                "section": "MAIN",
+                "sectionRank": 39,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks & automation of process",
+            "title": "Site Reliability Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60288834",
+                "description": "Red Hat Asia Pacific"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1cc0a694-5d33-48cf-835a-75eda19e2df0.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6076",
+                        "description": "Konsultasi & Strategi"
+                    },
+                    "subclassification": {
+                        "id": "6077",
+                        "description": "Analis"
+                    }
+                }
+            ],
+            "companyName": "Red Hat",
+            "companyProfileStructuredDataId": 3745,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80156821",
+            "isFeatured": false,
+            "listingDate": "2024-11-13T07:37:30Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "technical-account-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+                "jobId": "80156821",
+                "section": "MAIN",
+                "sectionRank": 40,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "-",
+            "title": "Senior Technical Account Manager - OpenShift, RHEL, Middleware",
+            "tracking": "ewogICJ0b2tlbiI6ICIzYzRhNGFkMC1kZmE4LTRlYWMtYWU1MC02MmQzZDgwNGFiNTdfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 180,
+    "info": {
+        "timeTaken": 24,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3921288848010928492",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "87ca8236-42b4-4061-9c6e-550c02dda3d8",
+        "token": "0~87ca8236-42b4-4061-9c6e-550c02dda3d8",
+        "keywords": "devops",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 2,
+        "totalJobCount": 180,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "91",
+            "mordor:result_count_vec": "32",
+            "mordor:rt": "17",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "32",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.481",
+            "mordor:count_rst": "91",
+            "mordor:count_ir": "57",
+            "mordor:result_count_ir": "57"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "2",
+        "seekselectallpages": "true",
+        "keywords": "devops",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

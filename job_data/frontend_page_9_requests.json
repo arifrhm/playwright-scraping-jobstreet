@@ -1,0 +1,324 @@
+[
+    {
+        "message": {
+            "method": "Network.responseReceived",
+            "params": {
+                "frameId": "C30680599603A4E9BD0A309D50950AAA",
+                "hasExtraInfo": true,
+                "loaderId": "767F4B84323B0ABE72562B22CCEEABD1",
+                "requestId": "252.690",
+                "response": {
+                    "alternateProtocolUsage": "unspecifiedReason",
+                    "charset": "utf-8",
+                    "connectionId": 50,
+                    "connectionReused": true,
+                    "encodedDataLength": 112,
+                    "fromDiskCache": false,
+                    "fromPrefetchCache": false,
+                    "fromServiceWorker": false,
+                    "headers": {
+                        "access-control-allow-origin": "https://id.jobstreet.com",
+                        "cache-control": "no-store",
+                        "cf-cache-status": "DYNAMIC",
+                        "cf-ray": "8e77d3758b1ea724-PHX",
+                        "content-encoding": "gzip",
+                        "content-type": "application/json; charset=utf-8",
+                        "date": "Sun, 24 Nov 2024 07:53:34 GMT",
+                        "etag": "W/\"7e-i00kDgWiNS5qNZ8/l4x2Zz22Ssw\"",
+                        "seek-melways": "true",
+                        "server": "cloudflare",
+                        "strict-transport-security": "max-age=157680000",
+                        "vary": "Origin, Accept-Encoding",
+                        "x-envoy-upstream-service-time": "10",
+                        "x-powered-by": "Express",
+                        "x-request-id": "55ba22a1-a6d2-453d-851f-20403e1b3831"
+                    },
+                    "mimeType": "application/json",
+                    "protocol": "h2",
+                    "remoteIPAddress": "104.18.41.198",
+                    "remotePort": 443,
+                    "responseTime": 1732434814544.436,
+                    "securityDetails": {
+                        "certificateId": 0,
+                        "certificateTransparencyCompliance": "compliant",
+                        "cipher": "AES_128_GCM",
+                        "encryptedClientHello": false,
+                        "issuer": "WE1",
+                        "keyExchange": "",
+                        "keyExchangeGroup": "X25519Kyber768Draft00",
+                        "protocol": "TLS 1.3",
+                        "sanList": [
+                            "id.jobstreet.com"
+                        ],
+                        "serverSignatureAlgorithm": 1027,
+                        "signedCertificateTimestampList": [
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Google 'Xenon2025h1' log",
+                                "logId": "CF1156EED52E7CAFF3875BD9692E9BE91A71674AB017ECAC01D25B77CECC3B08",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "3045022100FE8F344FA46AD30FE3F9BE6C24A9248AD10397C6AF28E5CB9629578DAC9BE08602206CC2398BA48AEEDBB4A549B043A99305485578F6869DD1C5912BB02A3A92DBEE",
+                                "status": "Verified",
+                                "timestamp": 1731338579002.0
+                            },
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Sectigo 'Sabre2025h1'",
+                                "logId": "E092B3FC0C1DC8E768361FDE61B9964D0A5278198A72D672C4B04DA56D6F5404",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "30450220050C3C508A14FE68AA7E083145DA1FC95B7F17EB7312D5AF3423E90273C8DEA7022100D5F8C8782A86FF9BFF390570EC0FF655D58CF58CE16576DC04226A774BD22E9E",
+                                "status": "Verified",
+                                "timestamp": 1731338578983.0
+                            }
+                        ],
+                        "subjectName": "id.jobstreet.com",
+                        "validFrom": 1731334978,
+                        "validTo": 1739110977
+                    },
+                    "securityState": "secure",
+                    "status": 200,
+                    "statusText": "",
+                    "timing": {
+                        "connectEnd": -1,
+                        "connectStart": -1,
+                        "dnsEnd": -1,
+                        "dnsStart": -1,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 220.406,
+                        "receiveHeadersStart": 220.183,
+                        "requestTime": 6066733.332296,
+                        "sendEnd": 0.712,
+                        "sendStart": 0.33,
+                        "sslEnd": -1,
+                        "sslStart": -1,
+                        "workerFetchStart": -1,
+                        "workerReady": -1,
+                        "workerRespondWithSettled": -1,
+                        "workerStart": -1
+                    },
+                    "url": "https://id.jobstreet.com/graphql"
+                },
+                "timestamp": 6066733.913224,
+                "type": "Fetch"
+            }
+        },
+        "webview": "C30680599603A4E9BD0A309D50950AAA"
+    },
+    {
+        "message": {
+            "method": "Network.responseReceived",
+            "params": {
+                "frameId": "C30680599603A4E9BD0A309D50950AAA",
+                "hasExtraInfo": true,
+                "loaderId": "767F4B84323B0ABE72562B22CCEEABD1",
+                "requestId": "252.702",
+                "response": {
+                    "alternateProtocolUsage": "alternativeJobWonRace",
+                    "charset": "",
+                    "connectionId": 0,
+                    "connectionReused": false,
+                    "encodedDataLength": 422,
+                    "fromDiskCache": false,
+                    "fromPrefetchCache": false,
+                    "fromServiceWorker": false,
+                    "headers": {
+                        "access-control-allow-origin": "*",
+                        "access-control-expose-headers": "CF-Ray",
+                        "alt-svc": "h3=\":443\"; ma=86400",
+                        "cf-cache-status": "DYNAMIC",
+                        "cf-ray": "8e77d37a2a681b0f-PHX",
+                        "date": "Sun, 24 Nov 2024 07:53:35 GMT",
+                        "server": "cloudflare",
+                        "vary": "origin, Accept-Encoding",
+                        "x-buffered": "true",
+                        "x-envoy-upstream-service-time": "6",
+                        "x-worker": "dt-350"
+                    },
+                    "mimeType": "",
+                    "protocol": "h3",
+                    "remoteIPAddress": "172.64.147.32",
+                    "remotePort": 443,
+                    "responseTime": 1732434815908.129,
+                    "securityDetails": {
+                        "certificateId": 0,
+                        "certificateTransparencyCompliance": "compliant",
+                        "cipher": "AES_128_GCM",
+                        "encryptedClientHello": false,
+                        "issuer": "WE1",
+                        "keyExchange": "",
+                        "keyExchangeGroup": "X25519Kyber768Draft00",
+                        "protocol": "QUIC",
+                        "sanList": [
+                            "web.aips-sol.com"
+                        ],
+                        "serverSignatureAlgorithm": 1027,
+                        "signedCertificateTimestampList": [
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Google 'Xenon2025h1' log",
+                                "logId": "CF1156EED52E7CAFF3875BD9692E9BE91A71674AB017ECAC01D25B77CECC3B08",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "30450221008E4835F9867BE9EC7955BB46EFBAE2AF561653731466DAAB1807EF4C28AA53FE022056A007D32BA47A59E244345C2260ABE12626E39AD2634E6E005ED2B315B19273",
+                                "status": "Verified",
+                                "timestamp": 1728695551921.0
+                            },
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Cloudflare 'Nimbus2025'",
+                                "logId": "CCFB0F6A85710965FE959B53CEE9B27C22E9855C0D978DB6A97E54C0FE4C0DB0",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "3045022078904A377E800B1CD58459C48F714016125D88506A77624DA3561368D21203B7022100B8D27C4D3F0F4B16D658DC73019C2A8A33C5F8A43F8ADCFD9B2115A197A62F94",
+                                "status": "Verified",
+                                "timestamp": 1728695553933.0
+                            }
+                        ],
+                        "subjectName": "web.aips-sol.com",
+                        "validFrom": 1728691951,
+                        "validTo": 1736467950
+                    },
+                    "securityState": "secure",
+                    "status": 204,
+                    "statusText": "",
+                    "timing": {
+                        "connectEnd": 70.5,
+                        "connectStart": 62.162,
+                        "dnsEnd": 61.917,
+                        "dnsStart": 0.369,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 919.613,
+                        "receiveHeadersStart": 919.46,
+                        "requestTime": 6066733.996719,
+                        "sendEnd": 71.936,
+                        "sendStart": 70.899,
+                        "sslEnd": 70.5,
+                        "sslStart": 62.162,
+                        "workerFetchStart": -1,
+                        "workerReady": -1,
+                        "workerRespondWithSettled": -1,
+                        "workerStart": -1
+                    },
+                    "url": "https://web.aips-sol.com/v1/events?source=dt_web_jobstreet_ID"
+                },
+                "timestamp": 6066734.917731,
+                "type": "Fetch"
+            }
+        },
+        "webview": "C30680599603A4E9BD0A309D50950AAA"
+    },
+    {
+        "message": {
+            "method": "Network.responseReceived",
+            "params": {
+                "frameId": "C30680599603A4E9BD0A309D50950AAA",
+                "hasExtraInfo": true,
+                "loaderId": "767F4B84323B0ABE72562B22CCEEABD1",
+                "requestId": "252.703",
+                "response": {
+                    "alternateProtocolUsage": "alternativeJobWonRace",
+                    "charset": "",
+                    "connectionId": 0,
+                    "connectionReused": true,
+                    "encodedDataLength": 387,
+                    "fromDiskCache": false,
+                    "fromPrefetchCache": false,
+                    "fromServiceWorker": false,
+                    "headers": {
+                        "access-control-allow-origin": "*",
+                        "access-control-expose-headers": "CF-Ray",
+                        "alt-svc": "h3=\":443\"; ma=86400",
+                        "cf-cache-status": "DYNAMIC",
+                        "cf-ray": "8e77d37a2a6e1b0f-PHX",
+                        "date": "Sun, 24 Nov 2024 07:53:35 GMT",
+                        "server": "cloudflare",
+                        "vary": "origin, Accept-Encoding",
+                        "x-buffered": "true",
+                        "x-envoy-upstream-service-time": "6",
+                        "x-worker": "dt-350"
+                    },
+                    "mimeType": "",
+                    "protocol": "h3",
+                    "remoteIPAddress": "172.64.147.32",
+                    "remotePort": 443,
+                    "responseTime": 1732434815927.793,
+                    "securityDetails": {
+                        "certificateId": 0,
+                        "certificateTransparencyCompliance": "compliant",
+                        "cipher": "AES_128_GCM",
+                        "encryptedClientHello": false,
+                        "issuer": "WE1",
+                        "keyExchange": "",
+                        "keyExchangeGroup": "X25519Kyber768Draft00",
+                        "protocol": "QUIC",
+                        "sanList": [
+                            "web.aips-sol.com"
+                        ],
+                        "serverSignatureAlgorithm": 1027,
+                        "signedCertificateTimestampList": [
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Google 'Xenon2025h1' log",
+                                "logId": "CF1156EED52E7CAFF3875BD9692E9BE91A71674AB017ECAC01D25B77CECC3B08",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "30450221008E4835F9867BE9EC7955BB46EFBAE2AF561653731466DAAB1807EF4C28AA53FE022056A007D32BA47A59E244345C2260ABE12626E39AD2634E6E005ED2B315B19273",
+                                "status": "Verified",
+                                "timestamp": 1728695551921.0
+                            },
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Cloudflare 'Nimbus2025'",
+                                "logId": "CCFB0F6A85710965FE959B53CEE9B27C22E9855C0D978DB6A97E54C0FE4C0DB0",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "3045022078904A377E800B1CD58459C48F714016125D88506A77624DA3561368D21203B7022100B8D27C4D3F0F4B16D658DC73019C2A8A33C5F8A43F8ADCFD9B2115A197A62F94",
+                                "status": "Verified",
+                                "timestamp": 1728695553933.0
+                            }
+                        ],
+                        "subjectName": "web.aips-sol.com",
+                        "validFrom": 1728691951,
+                        "validTo": 1736467950
+                    },
+                    "securityState": "secure",
+                    "status": 204,
+                    "statusText": "",
+                    "timing": {
+                        "connectEnd": -1,
+                        "connectStart": -1,
+                        "dnsEnd": -1,
+                        "dnsStart": -1,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 935.078,
+                        "receiveHeadersStart": 934.674,
+                        "requestTime": 6066734.00117,
+                        "sendEnd": 68.855,
+                        "sendStart": 68.117,
+                        "sslEnd": -1,
+                        "sslStart": -1,
+                        "workerFetchStart": -1,
+                        "workerReady": -1,
+                        "workerRespondWithSettled": -1,
+                        "workerStart": -1
+                    },
+                    "url": "https://web.aips-sol.com/v1/events?source=dt_web_jobstreet_ID"
+                },
+                "timestamp": 6066734.937586,
+                "type": "Fetch"
+            }
+        },
+        "webview": "C30680599603A4E9BD0A309D50950AAA"
+    }
+]

@@ -1,0 +1,1548 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "",
+                "description": "Pengiklan Anonim"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80123961",
+            "isFeatured": false,
+            "listingDate": "2024-11-13T06:11:47Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Odoo-Developer",
+            "salaryLabel": "Rp 10.000.000 – Rp 15.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "80123961",
+                "section": "MAIN",
+                "sectionRank": 341,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Lead ODOO implementations, drive digital transformation & accelerate your career! Join our dynamic team of ERP experts, make a lasting business impact",
+            "title": "ODOO Senior Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60876768",
+                "description": "PT Prawathiya Karsa Pradipta"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/fbcaf744-678d-4ab6-adc1-9278cd2d51ef.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Prawathiya Karsa Pradiptha",
+            "companyProfileStructuredDataId": 428045,
+            "displayType": "standard",
+            "id": "79975184",
+            "isFeatured": false,
+            "listingDate": "2024-11-05T10:12:05Z",
+            "listingDateDisplay": "18 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bekasi, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bekasi Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "mobile-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79975184",
+                "section": "MAIN",
+                "sectionRank": 342,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Developed Applications based on client requests, and coordinated with other teams.",
+            "title": "MOBILE DEVELOPER",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60217583",
+                "description": "PT PJPT Senopati"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan BPJS Ketenagakerjaan",
+                "BPJS Ketenagakerjaan"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/85696f77-8b12-431b-a379-438a1d66ebcc.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "PJPT SENOPATI",
+            "companyProfileStructuredDataId": 669396,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79911960",
+            "isFeatured": false,
+            "listingDate": "2024-11-01T08:45:57Z",
+            "listingDateDisplay": "22 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bekasi, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bekasi Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79911960",
+                "section": "MAIN",
+                "sectionRank": 343,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "IT Developer",
+            "title": "IT Developer (Vue.js, nuxt.js, code igniter/Docker)",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60900329",
+                "description": "PT Adi Data Informatika"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/52d07ef1-f1b4-4b16-8f22-6a7769858ca5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Adi Data Informatics",
+            "companyProfileStructuredDataId": 426071,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80176318",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T04:05:48Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "go-software-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "80176318",
+                "section": "MAIN",
+                "sectionRank": 344,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "ROLE A Golang developer role is to build optimized, scalable, and modular software using required technologies. You are tasked with developing ",
+            "title": "Golang Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfNCIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62747700",
+                "description": "Elisys Sistem Integrasi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/147bfbf9-0cf9-4809-92a8-3e5981726fea.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79911499",
+            "isFeatured": false,
+            "listingDate": "2024-11-01T11:14:55Z",
+            "listingDateDisplay": "22 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bogor, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bogor Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "full-stack-developer",
+            "salaryLabel": "Rp 5.000.000 – Rp 7.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79911499",
+                "section": "MAIN",
+                "sectionRank": 345,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Pekerjaan bisa dilakukan secara remote ",
+            "title": "Full Stack Developer (Remote)",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfNSIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60172980",
+                "description": "PT Reycom Document Solusi"
+            },
+            "bulletPoints": [
+                "Innovative Projects",
+                "Collaborative Environment",
+                "Career Growth"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/9a947957-7443-4ef9-ac0b-229ccf50a4ae.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Reycom Document Solusi",
+            "companyProfileStructuredDataId": 436461,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80002145",
+            "isFeatured": false,
+            "listingDate": "2024-11-06T08:19:52Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "android-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "80002145",
+                "section": "MAIN",
+                "sectionRank": 346,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Join PT. Reycom as an Android Developer! Build apps using Java/Kotlin, collaborate with designers, and grow your skills in a dynamic team.",
+            "title": "Android Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "",
+                "description": "Pengiklan Anonim"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6295",
+                        "description": "Manajemen Program & Proyek"
+                    }
+                }
+            ],
+            "companyName": "Pengiklan Anonim",
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80094633",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T04:06:57Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bekasi, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bekasi Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-project-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "80094633",
+                "section": "MAIN",
+                "sectionRank": 347,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "monitor project resources and project schedule, coordinate project members (BA, Programmer, QA,  and others )",
+            "title": "IT Project Manager Officer (PMO)",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "",
+                "description": "Pengiklan Anonim"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Pengiklan Anonim",
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80049566",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T02:40:44Z",
+            "listingDateDisplay": "16 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Timur, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Timur Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "asset-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "80049566",
+                "section": "MAIN",
+                "sectionRank": 348,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Pendidikan minimal S1, usia maksimal 40 Tahun, memiliki pengalaman dibidang Programmer, memiliki pengalaman pada perusahaan pembiayaan",
+            "title": "IT Asset Management Internship",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfOCIKfQ==",
+            "workTypes": [
+                "Paruh waktu"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60173792",
+                "description": "RGF HR Agent Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6558b644-45f5-4583-ab71-a3b3870486df.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6292",
+                        "description": "Manajemen"
+                    }
+                }
+            ],
+            "companyName": "RGF HR Agent Recruitment",
+            "companyProfileStructuredDataId": 447720,
+            "displayType": "standard",
+            "id": "80093402",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T03:19:27Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Timur, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Timur Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "head-of-information-technology",
+            "salaryLabel": "Rp 13.000.000 – Rp 17.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "80093402",
+                "section": "MAIN",
+                "sectionRank": 349,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "The working venue is in East Jakarta.\nOur client is a Manufacturing company. Currently, they are looking for IT Chief Application & Development. ",
+            "title": "IT Chief Application & Development - Manufacture (A-112118)",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60898614",
+                "description": "PT. HTC Global Software Services"
+            },
+            "bulletPoints": [
+                "Hybrid working",
+                "Private Health Insurance",
+                "Great Working Culture"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/75a0e435-b958-4fb3-9574-1fc8db0b72e5.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "HTC Global Services MSC Sdn Bhd",
+            "companyProfileStructuredDataId": 404868,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79911621",
+            "isFeatured": false,
+            "listingDate": "2024-11-01T08:25:42Z",
+            "listingDateDisplay": "22 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "full-stack-developer",
+            "salaryLabel": "Rp 8.000.000 – Rp 10.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79911621",
+                "section": "MAIN",
+                "sectionRank": 350,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Exciting new opportunity for Full Stack Developer",
+            "title": "Full Stack Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTAiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ],
+                "displayText": "Kantor, Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60864313",
+                "description": "PT Buana Varia Komputama"
+            },
+            "bulletPoints": [
+                "Maternity Claim",
+                "BPJS (TK&Kesehatan)",
+                "Meal"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/c2476a3c-fe25-4217-a5b0-c62c1688ea0a.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Buana Varia Komputama",
+            "companyProfileStructuredDataId": 439179,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79878084",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T03:00:54Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79878084",
+                "section": "MAIN",
+                "sectionRank": 351,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Requirements:  Have an excellent knowledge of Spring Framework.",
+            "title": "Software Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60885618",
+                "description": "PT Glico Wings"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1b2c6f86-10f3-433d-a61e-ca49b61329e3.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Glico Wings",
+            "companyProfileStructuredDataId": 679889,
+            "displayType": "standard",
+            "id": "79975695",
+            "isFeatured": false,
+            "listingDate": "2024-11-05T11:05:10Z",
+            "listingDateDisplay": "18 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sap-advanced-business-application-programming-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79975695",
+                "section": "MAIN",
+                "sectionRank": 352,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "We are seeking a highly skilled SAP ABAP Developer to join our dynamic team.",
+            "title": "SAP ABAP Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60958011",
+                "description": "PT Intersolusi Teknologi Asia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/aefc2119-f381-464f-9bfa-305c3f48bda8.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Asia Technology Intersolutions",
+            "companyProfileStructuredDataId": 433821,
+            "displayType": "standard",
+            "id": "79935529",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T02:36:15Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "mobile-developer",
+            "salaryLabel": "Rp 5,000,000 – Rp 7,500,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79935529",
+                "section": "MAIN",
+                "sectionRank": 353,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Responsibilities: Design and build applications for mobile platform. Ensure the performance, quality, and responsiveness of applications....",
+            "title": "Mobile Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60469855",
+                "description": "PT Artha Infotama (Jakarta)"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/f1ecc9fc-7af3-4211-854c-c848409f037c.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Artha Infotama",
+            "companyProfileStructuredDataId": 430581,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79965239",
+            "isFeatured": false,
+            "listingDate": "2024-11-05T04:05:41Z",
+            "listingDateDisplay": "19 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "technical-consultant",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79965239",
+                "section": "MAIN",
+                "sectionRank": 354,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": " Experience in software development using .NET, ASP, C# Experience in database application programming Experience in Reporting Database Excellent...",
+            "title": "ERP Technical Consultant ( Developer)",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60958011",
+                "description": "PT Intersolusi Teknologi Asia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/aefc2119-f381-464f-9bfa-305c3f48bda8.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Asia Technology Intersolutions",
+            "companyProfileStructuredDataId": 433821,
+            "displayType": "standard",
+            "id": "79935487",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T02:35:03Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "javascript-developer",
+            "salaryLabel": "Rp 5,000,000 – Rp 7,500,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79935487",
+                "section": "MAIN",
+                "sectionRank": 355,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Responsibilities:Your duties will include (but will not be limited to): Performing or directing website updates. Developing, maintaining and...",
+            "title": "Javascript Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "80028868",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T01:30:00Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "80028868",
+                "section": "MAIN",
+                "sectionRank": 356,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "We’re looking for a skilled Web Engineer to join our Web Infra team. As a Web Infra Engineer, you will work closely with the product, development, ...",
+            "title": "Software Engineer (Web) - Web Infra",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60864413",
+                "description": "PT. Prima Vista Solusi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/bb72e286-3d7e-4eff-961a-1f2ae879fe89.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Prima Vista Solutions",
+            "companyProfileStructuredDataId": 436187,
+            "displayType": "standard",
+            "id": "79933807",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T01:44:20Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "android-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79933807",
+                "section": "MAIN",
+                "sectionRank": 357,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Design and develop android-based application using Java and or Kotlin.",
+            "title": "Android Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62287169",
+                "description": "Kelola.biz"
+            },
+            "bulletPoints": [
+                "Innovative Projects",
+                "Flexible Work Environment",
+                "Diverse Tech Stack"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/b63cd098-7c50-464b-b60a-c751a936521e.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79887122",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T07:04:55Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "full-stack-developer",
+            "salaryLabel": "Rp 4.000.000 – Rp 6.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79887122",
+                "section": "MAIN",
+                "sectionRank": 358,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "As a Full Stack Developer at Kelola.biz: Build and maintain web apps, handling front-end and back-end with PHP, Laravel, JavaScript, and React.js.",
+            "title": "FULLSTACK DEVELOPER (PG)",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    }
+                ],
+                "displayText": "Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60866797",
+                "description": "PT Indocyber Global Teknologi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/273af3c9-1bb7-4728-ad9e-1cd5f412795c.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Indocyber Global Technology",
+            "companyProfileStructuredDataId": 427158,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79937719",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T03:29:03Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "webmethods-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79937719",
+                "section": "MAIN",
+                "sectionRank": 359,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Perform system development / programming and Perform program tests/debugging and making sure program is free of bugs",
+            "title": "Webmethod Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60889735",
+                "description": "PHINTRACO GROUP"
+            },
+            "bulletPoints": [
+                "Medical and Vision Reimbursement",
+                "Self Development Training",
+                "Team Work"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1e287f02-b322-4350-b5af-cbbac5429665.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Phintraco Group",
+            "companyProfileStructuredDataId": 435991,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79854108",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T04:09:09Z",
+            "listingDateDisplay": "25 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "web-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+                "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+                "jobId": "79854108",
+                "section": "MAIN",
+                "sectionRank": 360,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Developing website applications. Designing and developing.",
+            "title": "Web Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICJhNzBlMWNlMC1hYzE4LTQ0YWItYjExZi01OWIxMTNlM2RkZWVfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 750,
+    "info": {
+        "timeTaken": 26,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API7075785504544025452",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "b0418efd-1474-41ba-b6d4-7734408ef105",
+        "token": "0~b0418efd-1474-41ba-b6d4-7734408ef105",
+        "keywords": "programmer",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 18,
+        "totalJobCount": 750,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "729",
+            "mordor:result_count_vec": "0",
+            "mordor:rt": "19",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "0",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.456",
+            "mordor:count_rst": "732",
+            "mordor:count_ir": "21",
+            "mordor:result_count_ir": "21"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "18",
+        "seekselectallpages": "true",
+        "keywords": "programmer",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

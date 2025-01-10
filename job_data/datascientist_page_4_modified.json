@@ -1,0 +1,1464 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "PT Telkomsel Ekosistem Digital"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79764586",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T10:02:06Z",
+            "listingDateDisplay": "29 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "machine-learning-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "79764586",
+                "section": "MAIN",
+                "sectionRank": 61,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "INDICO is seeking a talented Machine Learning Engineer to join our dynamic team on a project basis. You will be responsible for designing and imple...",
+            "title": "Machine Learning Engineer (Project Based)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687719",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:59:01Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kecamatan Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687719",
+                "section": "MAIN",
+                "sectionRank": 62,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687625",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:51:55Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687625",
+                "section": "MAIN",
+                "sectionRank": 63,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687885",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:51:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687885",
+                "section": "MAIN",
+                "sectionRank": 64,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687988",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:00:17Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Makassar, Sulawesi Selatan",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Makassar Makassar Sulawesi Selatan"
+                        },
+                        {
+                            "contextualName": "Sulawesi Selatan"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687988",
+                "section": "MAIN",
+                "sectionRank": 65,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687629",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:09:50Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Surakarta, Jawa Tengah",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Surakarta Jawa Tengah"
+                        },
+                        {
+                            "contextualName": "Jawa Tengah"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687629",
+                "section": "MAIN",
+                "sectionRank": 66,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687784",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:57:38Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Semarang, Jawa Tengah",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Semarang Jawa Tengah"
+                        },
+                        {
+                            "contextualName": "Jawa Tengah"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687784",
+                "section": "MAIN",
+                "sectionRank": 67,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687688",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:10:01Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687688",
+                "section": "MAIN",
+                "sectionRank": 68,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687840",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:52:07Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Medan, Sumatera Utara",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Medan Sumatera Utara"
+                        },
+                        {
+                            "contextualName": "Sumatera Utara"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687840",
+                "section": "MAIN",
+                "sectionRank": 69,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687621",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:51:40Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687621",
+                "section": "MAIN",
+                "sectionRank": 70,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687663",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:57:49Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Palembang, Sumatera Selatan",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Palembang Sumatera Selatan"
+                        },
+                        {
+                            "contextualName": "Sumatera Selatan"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687663",
+                "section": "MAIN",
+                "sectionRank": 71,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687614",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:10:27Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687614",
+                "section": "MAIN",
+                "sectionRank": 72,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687983",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:57:39Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bekasi, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bekasi Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687983",
+                "section": "MAIN",
+                "sectionRank": 73,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76688054",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:09:15Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Malang, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Malang Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76688054",
+                "section": "MAIN",
+                "sectionRank": 74,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687641",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:06:50Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Batam, Kepulauan Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Batam Kepulauan Riau"
+                        },
+                        {
+                            "contextualName": "Kepulauan Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687641",
+                "section": "MAIN",
+                "sectionRank": 75,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687872",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:06:49Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Pekanbaru, Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Pekanbaru Riau"
+                        },
+                        {
+                            "contextualName": "Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687872",
+                "section": "MAIN",
+                "sectionRank": 76,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687863",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T20:08:50Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Banjarmasin, Kalimantan Selatan",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Banjarmasin Kalimantan Selatan"
+                        },
+                        {
+                            "contextualName": "Kalimantan Selatan"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687863",
+                "section": "MAIN",
+                "sectionRank": 77,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60873974",
+                "description": "STOCKBIT.COM"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Stockbit.com",
+            "companyProfileStructuredDataId": 437271,
+            "displayType": "standard",
+            "id": "77215959",
+            "isFeatured": false,
+            "listingDate": "2024-07-10T10:58:54Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "machine-learning-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "77215959",
+                "section": "MAIN",
+                "sectionRank": 78,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "An AI/ML Engineer is responsible for designing, developing, and deploying machine learning or artificial intelligence solutions that solve complex ...",
+            "title": "AI/ML Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687925",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:26:50Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76687925",
+                "section": "MAIN",
+                "sectionRank": 79,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotation Specialist - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76688061",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:27:26Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+                "jobId": "76688061",
+                "section": "MAIN",
+                "sectionRank": 80,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotation Specialist - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICI5NWZmYmVmNS00NjMxLTQxNmItODZjYS1kNDU2NzY3ODRiYTJfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        }
+    ],
+    "totalCount": 100,
+    "info": {
+        "timeTaken": 29,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API4266710059236879726",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+        "token": "0~9baf0ea6-5e47-4ef1-8cc3-156d1322c05b",
+        "keywords": "datascientist",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 4,
+        "totalJobCount": 100,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "0",
+            "mordor:result_count_vec": "67",
+            "mordor:rt": "20",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "73",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.465",
+            "mordor:count_rst": "0",
+            "mordor:count_ir": "33",
+            "mordor:result_count_ir": "33"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "4",
+        "seekselectallpages": "true",
+        "keywords": "datascientist",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

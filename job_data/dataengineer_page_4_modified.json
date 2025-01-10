@@ -1,0 +1,1459 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60874221",
+                "description": "TADA"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyName": "Tada",
+            "companyProfileStructuredDataId": 627647,
+            "displayType": "standard",
+            "id": "80304278",
+            "isFeatured": false,
+            "listingDate": "2024-11-20T03:28:43Z",
+            "listingDateDisplay": "4 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80304278",
+                "section": "MAIN",
+                "sectionRank": 61,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "The Lead Data Engineer will be responsible for developing and leading the data engineering efforts within our system and projects. This role will r...",
+            "title": "Lead Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Snaphunt"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Snaphunt",
+            "companyProfileStructuredDataId": 390542,
+            "displayType": "standard",
+            "id": "80309540",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T09:47:06Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Data-Integration-Engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80309540",
+                "section": "MAIN",
+                "sectionRank": 62,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "The ideal candidate will be responsible for integrating various systems using Kafka, building monitoring tools, and developing APIs in Python. You ...",
+            "title": "Senior Data Integration Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60246968",
+                "description": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Sigma Global Technology",
+            "companyProfileStructuredDataId": 639209,
+            "displayType": "standard",
+            "id": "80255223",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T10:44:02Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Business-Intelligence-Engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80255223",
+                "section": "MAIN",
+                "sectionRank": 63,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Berpengalaman sebagai BI Engineer selama minimal 3 tahun\nMenguasai Tableau Desktop dan Tableau Cloud\nMenguasai data storytelling untuk menterjemahk...",
+            "title": "Business Intelligence Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMyIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60859995",
+                "description": "PT Samsung Electronics Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Samsung",
+            "companyProfileStructuredDataId": 407946,
+            "displayType": "standard",
+            "id": "80249699",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T03:30:00Z",
+            "listingDateDisplay": "6 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80249699",
+                "section": "MAIN",
+                "sectionRank": 64,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "1. Contribute to continued discovery of business areas and strategic decision making by resolving issues through data analysis.\nRole and Responsibi...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Paytech Nexus"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80218654",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T16:03:16Z",
+            "listingDateDisplay": "8 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80218654",
+                "section": "MAIN",
+                "sectionRank": 65,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "A minimum of 3-5 years of relevant work in performing data exploration and feature engineering\nProficiency in statistical techniques such as Gradie...",
+            "title": "Data Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60958119",
+                "description": "IlmuOne Data"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyName": "IlmuOne Data",
+            "companyProfileStructuredDataId": 433491,
+            "displayType": "standard",
+            "id": "80165696",
+            "isFeatured": false,
+            "listingDate": "2024-11-13T11:08:23Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80165696",
+                "section": "MAIN",
+                "sectionRank": 66,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Work closely with company leadership, consultant, product engineering teams, to address data-related issues and support data infrastructure needs.\n...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60223675",
+                "description": "PT Graha Karya Informasi"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyName": "Graha Karya Informasi",
+            "companyProfileStructuredDataId": 432846,
+            "displayType": "standard",
+            "id": "80136749",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T01:49:44Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80136749",
+                "section": "MAIN",
+                "sectionRank": 67,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "2. Pengalaman Kerja Minimal: 3-5 tahun pengalaman dalam pengembangan dan pengelolaan sistem data.\n3. Sertifikat : Lebih disukai memiliki sertifikas...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfNyIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905305",
+                "description": "kumparan"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyName": "Kumparan",
+            "companyProfileStructuredDataId": 434477,
+            "displayType": "standard",
+            "id": "80106965",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T04:41:08Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "80106965",
+                "section": "MAIN",
+                "sectionRank": 68,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "We are looking for a Data Engineer to join our Data team. In this role, you will develop a big data infrastructure and framework to support data pr...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60901180",
+                "description": "PT Nomura Research Institute Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyName": "Nomura",
+            "companyProfileStructuredDataId": 4356,
+            "displayType": "standard",
+            "id": "79943572",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T02:16:40Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79943572",
+                "section": "MAIN",
+                "sectionRank": 69,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Perform data exploration, data cleaning, data imputation, and feature engineering on unstructured and structured data.\nBuild the infrastructure for...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60246968",
+                "description": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyName": "Sigma Global Technology",
+            "companyProfileStructuredDataId": 639209,
+            "displayType": "standard",
+            "id": "79819605",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T10:51:39Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79819605",
+                "section": "MAIN",
+                "sectionRank": 70,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "PLACEMENT: Telecommunication Industry (Jakarta)",
+            "title": "IT Data Engineer (for Telecommunication Industry)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60246968",
+                "description": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Sigma Global Technology",
+            "companyProfileStructuredDataId": 639209,
+            "displayType": "standard",
+            "id": "79819606",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T09:15:01Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79819606",
+                "section": "MAIN",
+                "sectionRank": 71,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Able to operate data visualization tools i.e. power BI",
+            "title": "Data Analyst (for Manufacture Industry)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60958119",
+                "description": "IlmuOne Data"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "IlmuOne Data",
+            "companyProfileStructuredDataId": 433491,
+            "displayType": "standard",
+            "id": "79840079",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T02:12:52Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-scientist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79840079",
+                "section": "MAIN",
+                "sectionRank": 72,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Mandatory: Experienced using programming languages (at least Python and SQL) to manipulate data and draw insights from large data sets. Intermediat...",
+            "title": "Data Scientist",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "PT Telkomsel Ekosistem Digital"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79764586",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T10:02:06Z",
+            "listingDateDisplay": "29 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "machine-learning-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79764586",
+                "section": "MAIN",
+                "sectionRank": 73,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "INDICO is seeking a talented Machine Learning Engineer to join our dynamic team on a project basis. You will be responsible for designing and imple...",
+            "title": "Machine Learning Engineer (Project Based)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Data Engineer (IT Consulting)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79661872",
+            "isFeatured": false,
+            "listingDate": "2024-07-25T10:07:03Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79661872",
+                "section": "MAIN",
+                "sectionRank": 74,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Design, develop, and maintain robust ETL processes for data transformation, quality, and reliability.\nBuild and manage data platforms based on serv...",
+            "title": "Data Engineer (IT Consulting)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60896307",
+                "description": "PT Cybertrend Intrabuana"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6317",
+                        "description": "Sumber Daya Manusia & Perekrutan"
+                    },
+                    "subclassification": {
+                        "id": "6327",
+                        "description": "Pelatihan & Pengembangan"
+                    }
+                }
+            ],
+            "companyName": "Cybertrend Intrabuana",
+            "companyProfileStructuredDataId": 431802,
+            "displayType": "standard",
+            "id": "79660453",
+            "isFeatured": false,
+            "listingDate": "2024-08-01T18:12:45Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79660453",
+                "section": "MAIN",
+                "sectionRank": 75,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "As a TRAINER FOR DATA ENGINEERING, DATA VISUALIZATION, AND DATA SCIENCE, you will be part of the core team, contributing to building the institutio...",
+            "title": "Trainer of Data (Data Engineering, Data Visualization and Data Science)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61169078",
+                "description": "PT Allo Bank Indonesia, Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Allo Bank Indonesia",
+            "companyProfileStructuredDataId": 645396,
+            "displayType": "standard",
+            "id": "79648199",
+            "isFeatured": false,
+            "listingDate": "2024-10-21T06:53:05Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79648199",
+                "section": "MAIN",
+                "sectionRank": 76,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "As a Data Engineer, you will play a crucial role in building and maintaining robust data infrastructure to support data-driven decision making. You...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60227797",
+                "description": "Yayasan Bina Nusantara"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Yayasan Bina Nusantara",
+            "companyProfileStructuredDataId": 428988,
+            "displayType": "standard",
+            "id": "79314529",
+            "isFeatured": false,
+            "listingDate": "2024-10-04T07:24:50Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79314529",
+                "section": "MAIN",
+                "sectionRank": 77,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "• Identify high-level business rules for data model and query.\n• Adapt conceptual and logical data models to enterprise model.\n• Contribute to desi...",
+            "title": "Senior Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905197",
+                "description": "PT Mid Solusi Nusantara (MEKARI)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyName": "Mid Solutions Nusantara",
+            "companyProfileStructuredDataId": 439647,
+            "displayType": "standard",
+            "id": "77380566",
+            "isFeatured": false,
+            "listingDate": "2024-07-18T07:38:53Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "77380566",
+                "section": "MAIN",
+                "sectionRank": 78,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "To reach millions, we need more people like you: entrepreneurs, builders, owners inside the company who are eager to grow at scale. Join us to empo...",
+            "title": "Senior Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60246968",
+                "description": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Sigma Global Technology",
+            "companyProfileStructuredDataId": 639209,
+            "displayType": "standard",
+            "id": "79580329",
+            "isFeatured": false,
+            "listingDate": "2024-10-17T09:56:35Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kecamatan Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "telecommunications-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79580329",
+                "section": "MAIN",
+                "sectionRank": 79,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "4. Data Analysis/Mining skill to identify the Pattern in Data and investigate the issues\n(Mandatory)\n5. Database Postgres/Greenplum/mySQL knowledge...",
+            "title": "Data Engineer - Telecommunication Industry",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMTkiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Devoteam"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79433643",
+            "isFeatured": false,
+            "listingDate": "2024-10-10T19:47:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+                "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+                "jobId": "79433643",
+                "section": "MAIN",
+                "sectionRank": 80,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "By combining creativity, tech, and data insights, we empower our customers to transform their business and unlock the future.\nWith 25 years’ of exp...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3M2JiZTIwZC1kYmQ2LTQyNjYtODYwMS00M2QwNzQwZjBlYTNfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 97,
+    "info": {
+        "timeTaken": 26,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3486690340448854587",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "d57cb004-126f-43fe-b968-45ba3f07606c",
+        "token": "0~d57cb004-126f-43fe-b968-45ba3f07606c",
+        "keywords": "dataengineer",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 4,
+        "totalJobCount": 97,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "0",
+            "mordor:result_count_vec": "97",
+            "mordor:rt": "18",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "100",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.320",
+            "mordor:count_rst": "0",
+            "mordor:count_ir": "0",
+            "mordor:result_count_ir": "0"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "4",
+        "seekselectallpages": "true",
+        "keywords": "dataengineer",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

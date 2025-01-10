@@ -1,0 +1,1448 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "80375079",
+            "isFeatured": false,
+            "listingDate": "2024-11-23T12:00:00Z",
+            "listingDateDisplay": "19 jam yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "go-software-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "80375079",
+                "section": "MAIN",
+                "sectionRank": 181,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "You will perform primary and secondary research, conduct analyses and appropriate modelling tasks that feeds directly into the development of techn...",
+            "title": "Consultant - Innovation Cloud Development Center - Golang Developer - ID",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    }
+                ],
+                "displayText": "Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "79372131",
+            "isFeatured": false,
+            "listingDate": "2024-10-08T06:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79372131",
+                "section": "MAIN",
+                "sectionRank": 182,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Software engineer - Web, you will be working closely with Product Managers, Designers, the Backend team, and other stakeholders to build a rob...",
+            "title": "Software Engineer - Web",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "79372089",
+            "isFeatured": false,
+            "listingDate": "2024-10-08T06:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79372089",
+                "section": "MAIN",
+                "sectionRank": 183,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Software Engineer in our Web Engineering Team, you will be at the forefront of delivering innovative, user-centric, and scalable web solution ...",
+            "title": "Software Engineer (Web) - Accommodation",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "78969166",
+            "isFeatured": false,
+            "listingDate": "2024-09-20T00:30:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "78969166",
+                "section": "MAIN",
+                "sectionRank": 184,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Software Engineer in the Financing Web Engineering Team, you will play a pivotal role in shaping Financing web-related products in Traveloka. ...",
+            "title": "Software Engineer - Web",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60236008",
+                "description": "PT. Waktu Cipta Dimensi"
+            },
+            "bulletPoints": [
+                "Positive Work Environment",
+                "Career Path",
+                "Work Life Balance"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/71bb9a35-79b2-4a8e-890a-5131370c4da9.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Waktu Cipta Dimensi",
+            "companyProfileStructuredDataId": 428910,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80025083",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T04:27:53Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-developer",
+            "salaryLabel": "Rp7.000.000 – Rp9.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "80025083",
+                "section": "MAIN",
+                "sectionRank": 185,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Develop, write, and manage code for a reliable, secure, and scalable web-based backend system to support business and operational needs.",
+            "title": "Senior Backend Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60314586",
+                "description": "PT TEKNO PRESENTASI GLOBAL"
+            },
+            "bulletPoints": [
+                "Penugasan yang jelas, kerjasama tim yang kuat dengan framework scrum",
+                "Pembelajaran bersama yang kuat, akan menaikkan skill seiring waktu",
+                "Memungkinkan WFH jika dibutuhkan"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/97b34ea6-dbb9-4bdf-b31f-86f6dc2cf247.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80207138",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T06:19:14Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "c-programmer",
+            "salaryLabel": "Rp 7,000,000 – Rp 10,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "80207138",
+                "section": "MAIN",
+                "sectionRank": 186,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Membangun aplikasi desktop windows untuk menampilkan konten di layar yang bisa dikelola dari server.",
+            "title": "Desktop Programmer C#",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60869521",
+                "description": "PT Mindo Small Business Solutions"
+            },
+            "bulletPoints": [
+                "Team Activity",
+                "PC Provided",
+                "Career Development"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/45fae9f3-9b14-4480-a7ba-f1bb657c3536.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindo Small Business Solutions",
+            "companyProfileStructuredDataId": 439666,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80173756",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T03:05:03Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "80173756",
+                "section": "MAIN",
+                "sectionRank": 187,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We are looking for a Senior Software Developer",
+            "title": "Senior Software Developer (Python/Django)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "80368246",
+            "isFeatured": false,
+            "listingDate": "2024-11-22T12:00:00Z",
+            "listingDateDisplay": "1 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "java-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "80368246",
+                "section": "MAIN",
+                "sectionRank": 188,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "You will perform primary and secondary research, conduct analyses and appropriate modelling tasks that feeds directly into the development of techn...",
+            "title": "Senior Consultant - Innovation Cloud Development Center - Java Developer - ID 1",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61446366",
+                "description": "PT GIRIMAS PAKAR INDAH"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/096968ba-b6ec-48c1-9afc-c57b45a19a4c.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Girimas Pakar Indah",
+            "companyProfileStructuredDataId": 669108,
+            "displayType": "standard",
+            "id": "79934933",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T02:19:49Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79934933",
+                "section": "MAIN",
+                "sectionRank": 189,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Menjadi IT-Backend developer di perusahaan kami adalah pilihan yang menarik",
+            "title": "IT-Backend",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60191960",
+                "description": "PT Astra Graphia Information Technology (AGIT)"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/234f579c-02a5-4bf5-9352-8cc541e24ec4.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Astra Graphia",
+            "companyProfileStructuredDataId": 413727,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79938054",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T03:34:25Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": ".net-software-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79938054",
+                "section": "MAIN",
+                "sectionRank": 190,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": ".NET Developer will be responsible for software development, utilizing .NET Core, ASP.NET MVC, and object-oriented programming principles.",
+            "title": "Developer (.NET, PowerBI, Android React Native, IOS, Middleware, ect)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTAiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60958011",
+                "description": "PT Intersolusi Teknologi Asia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/aefc2119-f381-464f-9bfa-305c3f48bda8.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Asia Technology Intersolutions",
+            "companyProfileStructuredDataId": 433821,
+            "displayType": "standard",
+            "id": "79935445",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T02:33:55Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-developer",
+            "salaryLabel": "Rp 5,000,000 – Rp 7,500,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79935445",
+                "section": "MAIN",
+                "sectionRank": 191,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Responsibilities : Designing and building applications for the Web platform. Ensuring the performance, quality, and responsiveness of applications....",
+            "title": "Backend Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60172980",
+                "description": "PT Reycom Document Solusi"
+            },
+            "bulletPoints": [
+                "Innovative Projects",
+                "Collaborative Environment",
+                "Career Growth"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/9a947957-7443-4ef9-ac0b-229ccf50a4ae.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Reycom Document Solusi",
+            "companyProfileStructuredDataId": 436461,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80002145",
+            "isFeatured": false,
+            "listingDate": "2024-11-06T08:19:52Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "android-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "80002145",
+                "section": "MAIN",
+                "sectionRank": 192,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Join PT. Reycom as an Android Developer! Build apps using Java/Kotlin, collaborate with designers, and grow your skills in a dynamic team.",
+            "title": "Android Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60902475",
+                "description": "PT PEFINDO Biro Kredit"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/9974ecdf-9275-4b41-802d-2116942f1616.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Pefindo Credit Bureau",
+            "companyProfileStructuredDataId": 435874,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79890902",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T10:07:21Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-development-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79890902",
+                "section": "MAIN",
+                "sectionRank": 193,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Responsible for designing and implementing enterprise applications, utilizing your expertise in full-stack development.",
+            "title": "IT Development Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60188317",
+                "description": "PT Asia Outsourcing Services"
+            },
+            "bulletPoints": [
+                "SALARY NEGOTIABLE UP TO 13.000.000",
+                "BPJS KESEHATAN DAN TENAGA KERJA"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/c6db096e-0262-4437-8aa6-0c07ce24d259.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Asia Outsourcing Services",
+            "companyProfileStructuredDataId": 430627,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79810306",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T10:18:48Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "Rp 9.000.000 – Rp 13.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79810306",
+                "section": "MAIN",
+                "sectionRank": 194,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Software Engineer!",
+            "title": "Software Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60873613",
+                "description": "PT Aplikasi Karya Anak Bangsa (GO-JEK Indonesia)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Gojek",
+            "companyProfileStructuredDataId": 430467,
+            "displayType": "standard",
+            "id": "79691176",
+            "isFeatured": false,
+            "listingDate": "2024-10-22T22:20:15Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79691176",
+                "section": "MAIN",
+                "sectionRank": 195,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Roll up your sleeves and climb on board if you’re ready to be our next Software Engineer. In this role, you will be an integral player for Backend ...",
+            "title": "Lead Software Engineer (IC)",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60338616",
+                "description": "PT. Metrodata Electronics, Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Metrodata",
+            "companyProfileStructuredDataId": 414113,
+            "displayType": "standard",
+            "id": "79727767",
+            "isFeatured": false,
+            "listingDate": "2024-10-24T04:41:04Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "applications-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79727767",
+                "section": "MAIN",
+                "sectionRank": 196,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Ikut serta memberikan dukungan pada tim Application Support dan atau user/project manager dalam mengevaluasi, mengidentifikasikan dan memberikan re...",
+            "title": "Application Developer Jr.",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "79869249",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T11:18:04Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Outsystem-Developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79869249",
+                "section": "MAIN",
+                "sectionRank": 197,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "You will perform primary and secondary research, conduct analyses and appropriate modelling tasks that feeds directly into the development of techn...",
+            "title": "Senior Analyst - Innovation Cloud Development Center - Outsystems Developer - ID",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "79840951",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T13:22:17Z",
+            "listingDateDisplay": "25 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "79840951",
+                "section": "MAIN",
+                "sectionRank": 198,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "The Transaction Platform team develops and optimizes Grab's Order Platform that supports the fast-growing Transport, GrabFood, and GrabMart busines...",
+            "title": "Software Engineer, Backend - Transaction Platform",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60300680",
+                "description": "PT Amartha Mikro Fintek (Jakarta)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Amartha Mikro Fintek",
+            "companyProfileStructuredDataId": 430337,
+            "displayType": "standard",
+            "id": "77936231",
+            "isFeatured": false,
+            "listingDate": "2024-08-07T03:52:01Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "77936231",
+                "section": "MAIN",
+                "sectionRank": 199,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Dedicated engineer for resolving reconciliation project and data integrity project. After that project will be assigned to Amartha Wealth Corporate...",
+            "title": "Backend Engineer (Golang) - Senior/Principal Level",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "78838137",
+            "isFeatured": false,
+            "listingDate": "2024-09-13T11:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "business-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+                "jobId": "78838137",
+                "section": "MAIN",
+                "sectionRank": 200,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Business Analysts at Traveloka are key drivers of business process optimization. In this role, you will design and propose data flow, data modeling...",
+            "title": "Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI3N2U5YzUxNy1iNTUxLTQ1NDMtOTRmYi04M2U0N2Q3MTQ2NzFfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 312,
+    "info": {
+        "timeTaken": 33,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API4194927403266106164",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+        "token": "0~25488c85-5e24-4562-82a3-ccfd8ca8f35e",
+        "keywords": "frontend",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 10,
+        "totalJobCount": 312,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "277",
+            "mordor:result_count_vec": "1",
+            "mordor:rt": "24",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "1",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.704",
+            "mordor:count_rst": "277",
+            "mordor:count_ir": "34",
+            "mordor:result_count_ir": "34"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "10",
+        "seekselectallpages": "true",
+        "keywords": "frontend",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

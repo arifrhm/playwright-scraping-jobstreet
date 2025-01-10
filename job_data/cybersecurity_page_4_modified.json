@@ -1,0 +1,1493 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "79459047",
+            "isFeatured": false,
+            "listingDate": "2024-10-11T06:30:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "79459047",
+                "section": "MAIN",
+                "sectionRank": 61,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As an Offensive Security team member at Traveloka, your daily tasks encompass penetration testing, adversarial emulation exercises, threat intellig...",
+            "title": "Security Engineer - Offensive Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60886384",
+                "description": "PT Metrocom Global Solusi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/33f6c103-8de9-49e2-a8c4-dd901437d6e6.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1225",
+                        "description": "Keterampilan & Jasa"
+                    },
+                    "subclassification": {
+                        "id": "6241",
+                        "description": "Jasa Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Metrocom Global Solusi",
+            "companyProfileStructuredDataId": 439613,
+            "displayType": "standard",
+            "id": "79821901",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T01:57:32Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-adviser",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "79821901",
+                "section": "MAIN",
+                "sectionRank": 62,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Analytical Skills: Ability to assess risks and develop security strategies.",
+            "title": "SECURITY ADVISOR",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60179222",
+                "description": "PT Multi Bangun Abadi"
+            },
+            "bulletPoints": [
+                "Gaji Pokok",
+                "Jenjang Karir",
+                "Bonus"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/71b13b1d-3d85-4721-ad8f-4fcfa41e92eb.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Multi Bangun Abadi",
+            "companyProfileStructuredDataId": 439866,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79755961",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T07:34:11Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "Rp 45.000.000 – Rp 50.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "79755961",
+                "section": "MAIN",
+                "sectionRank": 63,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "IT Security",
+            "title": "IT Security",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61108626",
+                "description": "PT Accenture"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Accenture",
+            "companyProfileStructuredDataId": 1369,
+            "displayType": "standard",
+            "id": "76491337",
+            "isFeatured": false,
+            "listingDate": "2024-06-10T17:35:17Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-consultant",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "76491337",
+                "section": "MAIN",
+                "sectionRank": 64,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "This is an exciting opportunity to involve and execute on ICS/OT security engagements in critical infrastructure and/or mission critical environmen...",
+            "title": "OT Security Consultant",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60318323",
+                "description": "PT Mega Central Finance"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/4c2ad1ad-1445-4d1d-a436-7bbe91c5e0f9.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Mega Central Finance",
+            "companyProfileStructuredDataId": 439508,
+            "displayType": "standard",
+            "id": "80243408",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T05:58:57Z",
+            "listingDateDisplay": "6 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-governance-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80243408",
+                "section": "MAIN",
+                "sectionRank": 65,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Job Description  Manage the process of gathering, analysing, and assessing the current and future threat landscape Lead the preparation of the...",
+            "title": "IT SECURITY & GOVERNANCE MANAGER",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6285",
+                        "description": "Konsultan"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "79242905",
+            "isFeatured": false,
+            "listingDate": "2024-10-02T12:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "79242905",
+                "section": "MAIN",
+                "sectionRank": 66,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Senior Consultant in OT Security, you will play a pivotal role in fortifying our clients' operational technology environments against evolving...",
+            "title": "Senior Manager - Enterprise Security - OT Security - JKT",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61108626",
+                "description": "PT Accenture"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Accenture",
+            "companyProfileStructuredDataId": 1369,
+            "displayType": "standard",
+            "id": "76619160",
+            "isFeatured": false,
+            "listingDate": "2024-06-13T14:22:56Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "76619160",
+                "section": "MAIN",
+                "sectionRank": 67,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and sp...",
+            "title": "Security Architect",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6076",
+                        "description": "Konsultasi & Strategi"
+                    },
+                    "subclassification": {
+                        "id": "6080",
+                        "description": "Konsultasi Manajemen & Perubahan"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "79819534",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T12:00:00Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "79819534",
+                "section": "MAIN",
+                "sectionRank": 68,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "As the Cyber Risk Services Manager at Deloitte, you will leads the delivery of comprehensive cybersecurity solutions to clients, ensuring their dig...",
+            "title": "Manager - Cyber Risk Services - JKT",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62773403",
+                "description": "Trust Teknologi Finansial"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/05d960e9-8966-4f25-af0c-beec2fa062a8.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1200",
+                        "description": "Akuntansi"
+                    },
+                    "subclassification": {
+                        "id": "6145",
+                        "description": "Audit – Internal"
+                    }
+                }
+            ],
+            "companyName": "Trust Financial Technology",
+            "companyProfileStructuredDataId": 639599,
+            "displayType": "standard",
+            "id": "80274563",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T01:41:48Z",
+            "listingDateDisplay": "3 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "internal-auditor",
+            "salaryLabel": "Rp 8.000.000 – Rp 10.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80274563",
+                "section": "MAIN",
+                "sectionRank": 69,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Join our dynamic team and contribute to shaping the future of the FinTech industry.",
+            "title": "Internal Auditor (Urgently Hiring)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60239069",
+                "description": "PT Extramarks Education Indonesia"
+            },
+            "bulletPoints": [
+                "Tunjangan Komunikasi",
+                "Asuransi Kesehatan"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/067ac70f-77d5-45d2-a67c-5475f5928388.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyName": "Extramarks Education Indonesia",
+            "companyProfileStructuredDataId": 533579,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80329281",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T08:09:06Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "business-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80329281",
+                "section": "MAIN",
+                "sectionRank": 70,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Perform on-going project analysis, create test plans and test cases, and communicate them together between IT and user stakeholders",
+            "title": "IT Implementation Business Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61105107",
+                "description": "PT Map Zona Adiperkasa"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1731bb81-4d55-47fb-b87a-d410ae7e0409.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1200",
+                        "description": "Akuntansi"
+                    },
+                    "subclassification": {
+                        "id": "6145",
+                        "description": "Audit – Internal"
+                    }
+                }
+            ],
+            "companyName": "Mitra Adiperkasa",
+            "companyProfileStructuredDataId": 414120,
+            "displayType": "standard",
+            "id": "80301775",
+            "isFeatured": false,
+            "listingDate": "2024-11-20T07:58:34Z",
+            "listingDateDisplay": "3 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "internal-audit-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80301775",
+                "section": "MAIN",
+                "sectionRank": 71,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Lead audit initiatives, manage risk strategies, and ensure compliance across operations.",
+            "title": "Internal Audit Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60312422",
+                "description": "PT Ako Media Asia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8c03272e-2ad6-4554-bbd4-185555a5bab5.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "AKO Media Asia",
+            "companyProfileStructuredDataId": 430238,
+            "displayType": "standard",
+            "id": "80252354",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T11:13:56Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80252354",
+                "section": "MAIN",
+                "sectionRank": 72,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "-",
+            "title": "Backend Developer (Golang)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61148477",
+                "description": "PT Dimensi Mandiri Teknologi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/540d169c-5e0a-4608-a03f-2c4798efd002.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80222428",
+            "isFeatured": false,
+            "listingDate": "2024-11-16T04:20:53Z",
+            "listingDateDisplay": "8 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-infrastructure-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80222428",
+                "section": "MAIN",
+                "sectionRank": 73,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "IT infrastructure, troubleshooting hardware and software issues, and ensuring network security and performance.",
+            "title": "IT Infrastructure Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTMiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60300680",
+                "description": "PT Amartha Mikro Fintek (Jakarta)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Amartha Mikro Fintek",
+            "companyProfileStructuredDataId": 430337,
+            "displayType": "standard",
+            "id": "78069263",
+            "isFeatured": false,
+            "listingDate": "2024-08-13T09:28:02Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "78069263",
+                "section": "MAIN",
+                "sectionRank": 74,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "The Security Engineer plays a crucial role in Amartha. You will be the warrior who will spearhead various Information Security programs to protect ...",
+            "title": "Senior Security Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60911234",
+                "description": "Coda Payments Pte Ltd"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Coda Payments",
+            "companyProfileStructuredDataId": 431722,
+            "displayType": "standard",
+            "id": "74930424",
+            "isFeatured": false,
+            "listingDate": "2024-04-04T12:58:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-operations",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "74930424",
+                "section": "MAIN",
+                "sectionRank": 75,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "At least 8 years of experience in security operations, with 3-4 years of AWS cloud experience.\nIn-depth knowledge of SIEM including setting up data...",
+            "title": "Security Operations Lead (AWS)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60186954",
+                "description": "PT Karya Solusi Prima Sejahtera"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8c3ed22b-4271-4ffe-a42b-15e04ed9fa2f.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Prima Sejahtera Solutions Works",
+            "companyProfileStructuredDataId": 434188,
+            "displayType": "standard",
+            "id": "80061384",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T08:54:36Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "security-engineer",
+            "salaryLabel": "Rp 6,000,000 – Rp 8,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80061384",
+                "section": "MAIN",
+                "sectionRank": 76,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Security Engineer",
+            "title": "Security Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60300680",
+                "description": "PT Amartha Mikro Fintek (Jakarta)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6297",
+                        "description": "Keamanan"
+                    }
+                }
+            ],
+            "companyName": "Amartha Mikro Fintek",
+            "companyProfileStructuredDataId": 430337,
+            "displayType": "standard",
+            "id": "77530024",
+            "isFeatured": false,
+            "listingDate": "2024-07-23T06:22:25Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "DevSecOps-Engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "77530024",
+                "section": "MAIN",
+                "sectionRank": 77,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "The Senior Cloud Security Engineer plays a crucial role in Amartha. You will be the warrior who will spearhead various Information Security program...",
+            "title": "Senior DevSecOps Engineer (Blue Team)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60312422",
+                "description": "PT Ako Media Asia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8c03272e-2ad6-4554-bbd4-185555a5bab5.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyName": "AKO Media Asia",
+            "companyProfileStructuredDataId": 430238,
+            "displayType": "standard",
+            "id": "80252317",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T11:07:12Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "systems-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80252317",
+                "section": "MAIN",
+                "sectionRank": 78,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "-",
+            "title": "System Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60892032",
+                "description": "PT TTI Group Distribution"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6cbe92fc-066c-4d5f-8f9a-a89560e5945d.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6365",
+                        "description": "Pengembangan Bisnis Baru"
+                    }
+                }
+            ],
+            "companyName": "TTI Group Distribution",
+            "companyProfileStructuredDataId": 428826,
+            "displayType": "standard",
+            "id": "79994893",
+            "isFeatured": false,
+            "listingDate": "2024-11-06T04:20:35Z",
+            "listingDateDisplay": "18 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales",
+            "salaryLabel": "Rp 10.000.000 – Rp 15.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "79994893",
+                "section": "MAIN",
+                "sectionRank": 79,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Qualifications: \nMinimum 2 years' experience in the Sales IT Development\nExcellent communication, negotiation, and sales skills.\n",
+            "title": "Sales Enterprise - Cyber Security Industry",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60863847",
+                "description": "Jakarta Intercultural School"
+            },
+            "bulletPoints": [
+                "work Life Balance",
+                "Competititve Benefit",
+                "Professional Development for Employee"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d9aaf17e-6d97-4eb1-97f5-65db8338ef0d.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6292",
+                        "description": "Manajemen"
+                    }
+                }
+            ],
+            "companyName": "Jakarta Intercultural School",
+            "companyProfileStructuredDataId": 433910,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80116339",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T01:43:01Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "head-of-information-technology",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+                "jobId": "80116339",
+                "section": "MAIN",
+                "sectionRank": 80,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Head of IT is responsible for the leadership, strategic planning, and management of the school’s IT infrastructure, assets, systems, and services.",
+            "title": "Head of Information Technology",
+            "tracking": "ewogICJ0b2tlbiI6ICI1ODQyZmI3Ni00OWExLTRmMmQtYjhlYy0xZWE5YTI2Yzg2N2RfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 177,
+    "info": {
+        "timeTaken": 29,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3905248033178531183",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+        "token": "0~cee5ecb9-b7b0-4752-93bb-5b68c606ecba",
+        "keywords": "cybersecurity",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 4,
+        "totalJobCount": 177,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "89",
+            "mordor:result_count_vec": "19",
+            "mordor:rt": "22",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "19",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.536",
+            "mordor:count_rst": "90",
+            "mordor:count_ir": "69",
+            "mordor:result_count_ir": "69"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "4",
+        "seekselectallpages": "true",
+        "keywords": "cybersecurity",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

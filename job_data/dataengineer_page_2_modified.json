@@ -1,0 +1,1536 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "61166242",
+                "description": "PT. MITRA SEMEN ASIA"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/9372a2d9-4c59-4b42-b624-8b81950d2e5c.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "GoCement",
+            "companyProfileStructuredDataId": 663904,
+            "displayType": "standard",
+            "id": "79971971",
+            "isFeatured": false,
+            "listingDate": "2024-11-05T08:40:02Z",
+            "listingDateDisplay": "18 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tegalsari, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Tegalsari Surabaya Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "Rp 6.500.000 – Rp 7.500.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79971971",
+                "section": "MAIN",
+                "sectionRank": 21,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Data Engineer responsible for designing, constructing, and maintaining the architecture that allows an organization to manage large volumes of data. ",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60968733",
+                "description": "PT Data Sinergitama Jaya"
+            },
+            "bulletPoints": [
+                "Data backup or application development",
+                "Data & Application Operation Engineer"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6f2ea760-9833-4cf1-9365-b4e191f37a16.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Data Sinergitama Jaya",
+            "companyProfileStructuredDataId": 451438,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79949832",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T10:02:15Z",
+            "listingDateDisplay": "19 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "operations-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79949832",
+                "section": "MAIN",
+                "sectionRank": 22,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Manage data backup, database operations, and application support, ensuring smooth operation and maintenance of containerized applications and systems.",
+            "title": "Data & Application Operation Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMiIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60860455",
+                "description": "Trans Retail Group"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/21703919-1de1-49e9-a1fd-bd401409c7de.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Trans Retail Group",
+            "companyProfileStructuredDataId": 437883,
+            "displayType": "standard",
+            "id": "79946212",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T07:57:18Z",
+            "listingDateDisplay": "19 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "systems-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79946212",
+                "section": "MAIN",
+                "sectionRank": 23,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "- Pengelolaan Database Oracle\n- Manajemen Data\n- Integrasi dan Automatisasi\n- Performance tuning untuk query dan aplikasi berbasis Oracle.",
+            "title": "Oracle System Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60462520",
+                "description": "PT Dipo Star Finance"
+            },
+            "bulletPoints": [
+                "1. Gaji + BPJS",
+                "2. Bonus",
+                "3. Asuransi Kesehatan Swasta + Jiwa"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3588129a-bb58-41b3-8fb6-d83d15abb698.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Dipo Star Finance",
+            "companyProfileStructuredDataId": 432037,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79948966",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T09:29:50Z",
+            "listingDateDisplay": "19 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "Rp 6.300.000 – Rp 9.450.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79948966",
+                "section": "MAIN",
+                "sectionRank": 24,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Develop, construct, test, and maintain data architectures (large-scale\nprocessing systems, databases, and pipelines).\n",
+            "title": "Data Engineer (Yogyakarta)",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60865617",
+                "description": "PT PCI Elektronik Internasional"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/31030511-b540-404a-8234-efab7c3be741.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "PCI Electronics International",
+            "companyProfileStructuredDataId": 435869,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79934478",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T02:05:53Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Batam, Kepulauan Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Batam Kepulauan Riau"
+                        },
+                        {
+                            "contextualName": "Kepulauan Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79934478",
+                "section": "MAIN",
+                "sectionRank": 25,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Develop monitoring tools, alerts, and automated error handling mechanisms to ensure data integrity and system reliability",
+            "title": "DATA ENGINEER",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61050028",
+                "description": "PT Digital Laskar Pelangi (Orderfaz)"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/991bbdaf-f917-48d3-ac9c-adf52715b546.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Orderfaz",
+            "companyProfileStructuredDataId": 701054,
+            "displayType": "standard",
+            "id": "79945081",
+            "isFeatured": false,
+            "listingDate": "2024-11-04T07:08:10Z",
+            "listingDateDisplay": "20 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-scientist",
+            "salaryLabel": "Rp 4.000.000 – Rp 6.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79945081",
+                "section": "MAIN",
+                "sectionRank": 26,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Develop machine learning models, analyze data, create reports, and collaborate on data-driven solutions for product strategy",
+            "title": "Data Scientist",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61046669",
+                "description": "PT Volarex Jaya Utama"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/6fc73122-a69a-4c06-bd00-6f0089e0d6d9.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79891880",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T12:21:55Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Malang, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Malang Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Artificial-Intelligence-Engineer",
+            "salaryLabel": "Rp 7.999.999 – Rp 8.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79891880",
+                "section": "MAIN",
+                "sectionRank": 27,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "API integration\nData manipulation and processing\nAI. automation\nData visualization and report\nCloud integration and deployment\nDatabase",
+            "title": "AI ENGINEER",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60893847",
+                "description": "PT Equine Global"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/3bb5897a-c974-41f5-8423-4c380e239ef3.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Equine Global",
+            "companyProfileStructuredDataId": 649457,
+            "displayType": "standard",
+            "id": "79864365",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T09:26:14Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79864365",
+                "section": "MAIN",
+                "sectionRank": 28,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Job Description : Should participate in system testing, UAT &amp; code migration activities in various environments Implementation of ETL...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60338610",
+                "description": "PT. BFI FINANCE INDONESIA, Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ce125cc9-ebfd-4012-9209-ce53993b09ac.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "BFI Finance Indonesia",
+            "companyProfileStructuredDataId": 413801,
+            "displayType": "standard",
+            "id": "79863003",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T08:16:23Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang Selatan, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Selatan Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79863003",
+                "section": "MAIN",
+                "sectionRank": 29,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Data Analytics Operation monitoring task in production running well and maintenance data in cloud",
+            "title": "Data Analytics Operation",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60897281",
+                "description": "PT Sky Parking Utama"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/38e6a56f-93f5-40d9-96b0-fa373fd8a67b.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Sky Parking Utama",
+            "companyProfileStructuredDataId": 658986,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79850725",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T02:56:30Z",
+            "listingDateDisplay": "25 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "analyst-engineer",
+            "salaryLabel": "Rp 8.000.000 – Rp 11.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79850725",
+                "section": "MAIN",
+                "sectionRank": 30,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Gather data from various sources including databases, APIs, spreadsheets, and more. Clean and transform the data to ensure its quality & compatibility",
+            "title": "Data Analyst Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60873613",
+                "description": "PT Aplikasi Karya Anak Bangsa (GO-JEK Indonesia)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Gojek",
+            "companyProfileStructuredDataId": 430467,
+            "displayType": "standard",
+            "id": "79884128",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T02:18:50Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79884128",
+                "section": "MAIN",
+                "sectionRank": 31,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Data Scientists want to spend their time exploring data, crafting the right features and optimising their models… so far so good. Production requir...",
+            "title": "Software Engineer - Data Science Platform",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60873613",
+                "description": "PT Aplikasi Karya Anak Bangsa (GO-JEK Indonesia)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Gojek",
+            "companyProfileStructuredDataId": 430467,
+            "displayType": "standard",
+            "id": "79874055",
+            "isFeatured": false,
+            "listingDate": "2024-10-30T22:47:52Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79874055",
+                "section": "MAIN",
+                "sectionRank": 32,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Data Scientists want to spend their time exploring data, crafting the right features and optimising their models… so far so good. Production requir...",
+            "title": "Software Engineer - Data Science Platform",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60900856",
+                "description": "PT Pulau Sambu"
+            },
+            "bulletPoints": [
+                "Kesempatan untuk meningkatkan skill.",
+                "Tantangan untuk mengembangkan perusahaan.",
+                "Good and friendly work environment."
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/62bd5a81-01e4-43f4-bd8b-16e6ca22cb57.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Sambu Group",
+            "companyProfileStructuredDataId": 436258,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79760633",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T10:36:18Z",
+            "listingDateDisplay": "29 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Utara, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Utara Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79760633",
+                "section": "MAIN",
+                "sectionRank": 33,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "PT Pulau Sambu sedang membuka kesempatan berkarir untuk posisi Data Engineer.",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "79840942",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T13:21:36Z",
+            "listingDateDisplay": "25 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79840942",
+                "section": "MAIN",
+                "sectionRank": 34,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Reporting to the Lead Market Analyst and you will be based onsite in Grab Jakarta office. Our team comprises individuals from varied backgrounds, e...",
+            "title": "Senior Data Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60252892",
+                "description": "PT Inovasi Terdepan Nusantara"
+            },
+            "bulletPoints": [
+                "Data Analyst",
+                "Business Intelligence",
+                "Data Engineer"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/c9de5475-a996-43a5-9123-3fae525ceebb.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "360Kredi",
+            "companyProfileStructuredDataId": 663259,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79760955",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T11:25:33Z",
+            "listingDateDisplay": "29 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79760955",
+                "section": "MAIN",
+                "sectionRank": 35,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "We're looking for Data Analyst for our Operational Team at Jakarta Barat. Advance SQL skill and proficiency in English is needed",
+            "title": "Data Engineer for Operation",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60888696",
+                "description": "PT Solusi Transportasi Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Transportation Solutions Indonesia",
+            "companyProfileStructuredDataId": 437193,
+            "displayType": "standard",
+            "id": "79840997",
+            "isFeatured": false,
+            "listingDate": "2024-10-29T13:21:41Z",
+            "listingDateDisplay": "25 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79840997",
+                "section": "MAIN",
+                "sectionRank": 36,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "You will be the expert in using data to analyze performance across markets and lines of business. You will partner with management and operational ...",
+            "title": "Senior Data Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60911234",
+                "description": "Coda Payments Pte Ltd"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Coda Payments",
+            "companyProfileStructuredDataId": 431722,
+            "displayType": "standard",
+            "id": "79804862",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T04:47:02Z",
+            "listingDateDisplay": "27 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-scientist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79804862",
+                "section": "MAIN",
+                "sectionRank": 37,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "As a Data Scientist, you’ll be joining a cross-functional team of other Data Scientists and Data Engineers. You will be focussing on deriving and d...",
+            "title": "Data Scientist",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62450941",
+                "description": "Bali Love"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/53275d0c-4927-41b8-9453-76e35671d864.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6286",
+                        "description": "Pengembangan & Administrasi Database"
+                    }
+                }
+            ],
+            "companyName": "Bali Love",
+            "companyProfileStructuredDataId": 702702,
+            "displayType": "standard",
+            "id": "79749436",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T04:43:39Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Denpasar, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Denpasar Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "7 - 10 million net",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79749436",
+                "section": "MAIN",
+                "sectionRank": 38,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "We’re looking for a talented Data Engineer to join our team.",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60179255",
+                "description": "PT. Best Agro International"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/14ea5149-ab4f-46a1-9ee6-84e12b561359.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Best Agro International",
+            "companyProfileStructuredDataId": 438893,
+            "displayType": "standard",
+            "id": "79748367",
+            "isFeatured": false,
+            "listingDate": "2024-10-25T04:07:52Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "machine-learning-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79748367",
+                "section": "MAIN",
+                "sectionRank": 39,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Machine Learning Engineer bertugas dalam merancang dan mengintegrasikan model machine learning dan menyediakan laporan analisa data.",
+            "title": "Machine Learning Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60338616",
+                "description": "PT. Metrodata Electronics, Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Metrodata",
+            "companyProfileStructuredDataId": 414113,
+            "displayType": "standard",
+            "id": "79647458",
+            "isFeatured": false,
+            "listingDate": "2024-10-21T12:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "applications-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+                "jobId": "79647458",
+                "section": "MAIN",
+                "sectionRank": 40,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "1. Data Engineer yang memiliki pengalaman lebih dari 2 tahun dalam bidang Data Warehouse & Data Analytics 2. Memiliki pengalaman melakukan ETL meng...",
+            "title": "Application Developer Jr.",
+            "tracking": "ewogICJ0b2tlbiI6ICI2YTRjYTk5ZC0yMzFmLTQ4ZmQtYTIzYS0wNWE2Zjk2ZTAwMmFfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 97,
+    "info": {
+        "timeTaken": 26,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3486690340448854587",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+        "token": "0~f7fb39c6-4745-4e53-886d-f65ecd8e52e6",
+        "keywords": "dataengineer",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 2,
+        "totalJobCount": 97,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "0",
+            "mordor:result_count_vec": "97",
+            "mordor:rt": "17",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "100",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.320",
+            "mordor:count_rst": "0",
+            "mordor:count_ir": "0",
+            "mordor:result_count_ir": "0"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "2",
+        "seekselectallpages": "true",
+        "keywords": "dataengineer",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

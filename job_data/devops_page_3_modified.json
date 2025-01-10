@@ -1,0 +1,1484 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60860071",
+                "description": "PT Bank DBS Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "DBS Bank",
+            "companyProfileStructuredDataId": 228,
+            "displayType": "standard",
+            "id": "80135732",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T04:06:20Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Microservices-Engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80135732",
+                "section": "MAIN",
+                "sectionRank": 41,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "DBSI T&O is the backbone that supports the bank as the central of operations and technology. With the spirit of OneTeam and PRIDE! Value, we serve ...",
+            "title": "Senior Officer, Digibank Microservices Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60191301",
+                "description": "PT BIFARMA ADILUHUNG"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/36eb8154-4622-4d3d-abe5-a62b9dff9327.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Bifarma Adiluhung",
+            "companyProfileStructuredDataId": 679902,
+            "displayType": "standard",
+            "id": "80048464",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T02:06:27Z",
+            "listingDateDisplay": "16 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Pulo Gadung, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Pulo Gadung Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "Rp 7.500.000 – Rp 10.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80048464",
+                "section": "MAIN",
+                "sectionRank": 42,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Oversee and optimize IT infrastructure, cloud operations, and cybersecurity, ensuring compliance and business continuity",
+            "title": "IT Infra, Operation & Cloud",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61029614",
+                "description": "PT. KOBUS SMART SERVICE"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/8089b678-5f89-4ae6-8484-10c621eebdc5.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Kobus Smart Service",
+            "companyProfileStructuredDataId": 519577,
+            "displayType": "standard",
+            "id": "80032628",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T08:52:10Z",
+            "listingDateDisplay": "16 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebon Jeruk, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebon Jeruk Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "middleware-engineer",
+            "salaryLabel": "Rp 8.000.000 – Rp 12.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80032628",
+                "section": "MAIN",
+                "sectionRank": 43,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "experience on system administrator or middleware.",
+            "title": "System & Middleware Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6285",
+                        "description": "Konsultan"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "79341800",
+            "isFeatured": false,
+            "listingDate": "2024-10-07T11:31:34Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "79341800",
+                "section": "MAIN",
+                "sectionRank": 44,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Senior Manager in Identity and Access Management (IAM) at Deloitte, you will spearhead the development and implementation of effective IAM str...",
+            "title": "Manager - DevOps - SG",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60300755",
+                "description": "Ayo Berinovasi Internasional"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/4c31b326-8349-448c-bdb3-2daff7704e84.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Ayo Berinovasi Internasional",
+            "companyProfileStructuredDataId": 704879,
+            "displayType": "standard",
+            "id": "80097899",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T05:45:30Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kecamatan Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "linux-engineer",
+            "salaryLabel": "Rp 20.000.000 – Rp 30.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80097899",
+                "section": "MAIN",
+                "sectionRank": 45,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "We are, an IT Managed Services Provider, managing IT infrastructure for many US based organizations.\nOffer excellent compensation, training and WFH.\n\n",
+            "title": "SENIOR UNIX/LINUX ENGINEER",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60338616",
+                "description": "PT. Metrodata Electronics, Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/f56b77a1-d13b-4f3a-9fbb-05cef9b13995.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Metrodata",
+            "companyProfileStructuredDataId": 414113,
+            "displayType": "standard",
+            "id": "80029569",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T06:54:19Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "vmware-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80029569",
+                "section": "MAIN",
+                "sectionRank": 46,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Troubleshoot & Monitoring All Server Virtual Machine",
+            "title": "VMWare Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfNiIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60860055",
+                "description": "PT Swadharma Duta Data"
+            },
+            "bulletPoints": [
+                "Technology Architecture",
+                "DevOps",
+                "TOGAF Framework"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/bc11755d-2d21-4e77-bc73-9c262ae74283.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6282",
+                        "description": "Arsitek"
+                    }
+                }
+            ],
+            "companyName": "Swadharma Duta Data",
+            "companyProfileStructuredDataId": 437527,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79808292",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T09:04:29Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Architecture-Associate",
+            "salaryLabel": "Rp 12.000.000 – Rp 16.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "79808292",
+                "section": "MAIN",
+                "sectionRank": 47,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "Memperbarui dan memelihara sistem dan arsitektur keamanan yang ada",
+            "title": "Architecture Associate (Software Architecture)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfNyIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60223675",
+                "description": "PT Graha Karya Informasi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/9bb90002-1789-4507-a207-9495331a9652.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Graha Karya Informasi",
+            "companyProfileStructuredDataId": 432846,
+            "displayType": "standard",
+            "id": "79880508",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T04:11:56Z",
+            "listingDateDisplay": "24 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "unix-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "79880508",
+                "section": "MAIN",
+                "sectionRank": 48,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "-",
+            "title": "Linux / Unix Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfOCIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60288834",
+                "description": "Red Hat Asia Pacific"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1cc0a694-5d33-48cf-835a-75eda19e2df0.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6022",
+                        "description": "Teknik Antariksa"
+                    }
+                }
+            ],
+            "companyName": "Red Hat",
+            "companyProfileStructuredDataId": 3745,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80156629",
+            "isFeatured": false,
+            "listingDate": "2024-11-13T07:29:17Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "technical-account-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80156629",
+                "section": "MAIN",
+                "sectionRank": 49,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "-",
+            "title": "Senior Technical Account Manager - OpenStack",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62461156",
+                "description": "PT. Elabram Systems"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/28eabdc5-042f-4198-94e7-2a94ff662ca2.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6363",
+                        "description": "Manajemen Akun & Relasi"
+                    }
+                }
+            ],
+            "companyName": "Elabram",
+            "companyProfileStructuredDataId": 402993,
+            "displayType": "standard",
+            "id": "80000282",
+            "isFeatured": false,
+            "listingDate": "2024-11-06T07:01:00Z",
+            "listingDateDisplay": "18 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "technical-account-manager",
+            "salaryLabel": "Rp 20,000,000 – Rp 27,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80000282",
+                "section": "MAIN",
+                "sectionRank": 50,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": " Provide technical support, manage client accounts, and ensure successful implementation of solutions",
+            "title": "Technical Account Manager Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTAiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ],
+                "displayText": "Kantor, Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60975948",
+                "description": "PT Tencent Technology Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Tencent",
+            "companyProfileStructuredDataId": 5695,
+            "displayType": "standard",
+            "id": "78599898",
+            "isFeatured": false,
+            "listingDate": "2024-09-04T08:53:06Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "cloud-architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "78599898",
+                "section": "MAIN",
+                "sectionRank": 51,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Are you passionate about shaping the future of cloud infrastructure? Join Tencent Cloud as an IaaS Product Architect and play a pivotal role in pro...",
+            "title": "Tencent Cloud - Senior Cloud Architect (R&D & Solution Design)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60897937",
+                "description": "PT Sinergi Informatika Semen Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/61f07596-2ca4-4390-a146-36435be5c22f.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6076",
+                        "description": "Konsultasi & Strategi"
+                    },
+                    "subclassification": {
+                        "id": "6077",
+                        "description": "Analis"
+                    }
+                }
+            ],
+            "companyName": "Sinergi Informatika Semen Indonesia",
+            "companyProfileStructuredDataId": 437090,
+            "displayType": "standard",
+            "id": "80263316",
+            "isFeatured": false,
+            "listingDate": "2024-11-19T02:20:32Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "solutions-architect",
+            "salaryLabel": "Rp 7.000.000 – Rp 8.500.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80263316",
+                "section": "MAIN",
+                "sectionRank": 52,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Have experience in System Analyst or area Infrastructure Development, IT Service Management, fundamental server, virtualization and security.",
+            "title": "Solution Architect",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTIiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60975948",
+                "description": "PT Tencent Technology Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6285",
+                        "description": "Konsultan"
+                    }
+                }
+            ],
+            "companyName": "Tencent",
+            "companyProfileStructuredDataId": 5695,
+            "displayType": "standard",
+            "id": "78914456",
+            "isFeatured": false,
+            "listingDate": "2024-09-18T00:30:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "cloud-solution-architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "78914456",
+                "section": "MAIN",
+                "sectionRank": 53,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Senior Solution Architect for Cloud Migration at Tencent Cloud, you will play a critical role in guiding clients through their cloud migration...",
+            "title": "Tencent Cloud Senior Solution Architect (Cloud Migration) - Indonesia",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62237058",
+                "description": "Beyondtech"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ea107038-0420-45ad-bfb6-01060adfa4a2.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6289",
+                        "description": "Teknik – Jaringan"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80211662",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T10:29:49Z",
+            "listingDateDisplay": "8 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80211662",
+                "section": "MAIN",
+                "sectionRank": 54,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Bertanggung jawab mengelola dan memelihara IT infrastruktur di Perusahaan mencakup perangkat keras, perangkat lunak, jaringan, dan pusat data.",
+            "title": "IT Infrastructure",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61148477",
+                "description": "PT Dimensi Mandiri Teknologi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/540d169c-5e0a-4608-a03f-2c4798efd002.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80222428",
+            "isFeatured": false,
+            "listingDate": "2024-11-16T04:20:53Z",
+            "listingDateDisplay": "8 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-infrastructure-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80222428",
+                "section": "MAIN",
+                "sectionRank": 55,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "IT infrastructure, troubleshooting hardware and software issues, and ensuring network security and performance.",
+            "title": "IT Infrastructure Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTUiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60237486",
+                "description": "PT Pratesis"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/fb2a7edc-bb12-4714-9a02-c1cef4a5c0f0.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Pratesis",
+            "companyProfileStructuredDataId": 436114,
+            "displayType": "standard",
+            "id": "80203201",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T03:59:18Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "infrastructure-specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80203201",
+                "section": "MAIN",
+                "sectionRank": 56,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": ".",
+            "title": "Infrastructure Specialist",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60906365",
+                "description": "PT Dunia Ide Optimalis"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/37671d9f-5c92-41f6-9f46-8a08ab00369b.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Dunia Ide Optimalis",
+            "companyProfileStructuredDataId": 432112,
+            "displayType": "standard",
+            "id": "80375159",
+            "isFeatured": false,
+            "listingDate": "2024-11-24T03:56:39Z",
+            "listingDateDisplay": "3 jam yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": ".net-software-developer",
+            "salaryLabel": "Rp 20,000,000 – Rp 30,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80375159",
+                "section": "MAIN",
+                "sectionRank": 57,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Requirements: S1/Graduate degree in IT or related field. Minimum GPA 3.5 and above. Strong programming and database skills. Strong .NET experience...",
+            "title": "Senior .Net Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60887973",
+                "description": "PT. Radiant Utama Interinsco Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/388d5edf-3d37-47a9-8894-c44325430904.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6302",
+                        "description": "Pengembangan & Produksi Web"
+                    }
+                }
+            ],
+            "companyName": "Radiant Utama Interinsco",
+            "companyProfileStructuredDataId": 414235,
+            "displayType": "standard",
+            "id": "80171945",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T02:06:00Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "web-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80171945",
+                "section": "MAIN",
+                "sectionRank": 58,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Develop and maintain high-performance web and mobile applications.\n",
+            "title": "Web Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTgiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60886220",
+                "description": "Korea Trade Investment Promotion Agency"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/ba8ece75-d888-4476-a0ef-9f25f3c310ef.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Korea Trade Investment Promotion Agency",
+            "companyProfileStructuredDataId": 434499,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80347079",
+            "isFeatured": false,
+            "listingDate": "2024-11-22T02:34:11Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kabupaten Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kabupaten Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "80347079",
+                "section": "MAIN",
+                "sectionRank": 59,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Backend Developer (IT Team Leader/Supervisor)",
+            "title": "Backend Developer (IT Team Leader/Supervisor)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMTkiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61108626",
+                "description": "PT Accenture"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Accenture",
+            "companyProfileStructuredDataId": 1369,
+            "displayType": "standard",
+            "id": "78762960",
+            "isFeatured": false,
+            "listingDate": "2024-09-11T18:16:55Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "managed-services-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+                "jobId": "78762960",
+                "section": "MAIN",
+                "sectionRank": 60,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "As a Managed Service Engineer, you will play a critical role in ensuring the smooth operation and performance of our client's infrastructure. You w...",
+            "title": "Infrastructure Managed Services Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5Y2I3NDRkMy1mNTQzLTQyYmEtYmYzYS02NzcwYzA1ZGQzOGZfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 180,
+    "info": {
+        "timeTaken": 27,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3921288848010928492",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+        "token": "0~1c6a0b67-ba7f-4b65-af70-5f94389bbd5c",
+        "keywords": "devops",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 3,
+        "totalJobCount": 180,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "91",
+            "mordor:result_count_vec": "32",
+            "mordor:rt": "19",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "32",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.481",
+            "mordor:count_rst": "91",
+            "mordor:count_ir": "57",
+            "mordor:result_count_ir": "57"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "3",
+        "seekselectallpages": "true",
+        "keywords": "devops",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

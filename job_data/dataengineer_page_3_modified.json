@@ -1,0 +1,1437 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60188564",
+                "description": "PT XL Axiata Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6008",
+                        "description": "Pemasaran & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6011",
+                        "description": "Pemasaran Langsung & CRM"
+                    }
+                }
+            ],
+            "companyName": "XL Axiata",
+            "companyProfileStructuredDataId": 413665,
+            "displayType": "standard",
+            "id": "79143504",
+            "isFeatured": false,
+            "listingDate": "2024-09-27T07:27:08Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "79143504",
+                "section": "MAIN",
+                "sectionRank": 41,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Stay updated on industry trends and emerging data science technologies to enhance the organization's capabilities.\nResponsible for understanding, i...",
+            "title": "CVM Data Science",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60873613",
+                "description": "PT Aplikasi Karya Anak Bangsa (GO-JEK Indonesia)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Gojek",
+            "companyProfileStructuredDataId": 430467,
+            "displayType": "standard",
+            "id": "77263987",
+            "isFeatured": false,
+            "listingDate": "2024-07-13T03:47:29Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-scientist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "77263987",
+                "section": "MAIN",
+                "sectionRank": 42,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "If you’re a data scientist at heart, this role is for you! because you’ll be mining insights from the sea of data, building data products, and desi...",
+            "title": "Senior Data Scientist",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60910907",
+                "description": "Deloitte"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6285",
+                        "description": "Konsultan"
+                    }
+                }
+            ],
+            "companyName": "Deloitte",
+            "companyProfileStructuredDataId": 1408,
+            "displayType": "standard",
+            "id": "78596624",
+            "isFeatured": false,
+            "listingDate": "2024-09-04T12:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "consultant",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "78596624",
+                "section": "MAIN",
+                "sectionRank": 43,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "This role sits within the Artificial Intelligence & Data team of Deloitte Southeast Asia, which encompasses data, analytics and cognitive automatio...",
+            "title": "Consultant - Artificial Intelligence & Data - ID",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "78063749",
+            "isFeatured": false,
+            "listingDate": "2024-08-13T03:30:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "78063749",
+                "section": "MAIN",
+                "sectionRank": 44,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Develop in-depth analytical (user) understanding for what drives growth for the product and analyze diverse and dynamic data sets to derive valuabl...",
+            "title": "Data Analyst - Platform CRM Analytics",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Company Confidential"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "76425042",
+            "isFeatured": false,
+            "listingDate": "2024-06-05T23:21:16Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-scientist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "76425042",
+                "section": "MAIN",
+                "sectionRank": 45,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Monza, Inc. is revolutionizing the way businesses access leads and manage their operations. As a hybrid online network, Monza offers businesses the...",
+            "title": "Data Scientist",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    }
+                ],
+                "displayText": "Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Snaphunt"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "77396123",
+            "isFeatured": false,
+            "listingDate": "2024-07-18T04:36:23Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "solutions-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "77396123",
+                "section": "MAIN",
+                "sectionRank": 46,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Our client is an IBM Power Linux solution provider, as a Master Dealer for the Indonesia area our client is providing support to all our partners a...",
+            "title": "Solution Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76688061",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:27:26Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "76688061",
+                "section": "MAIN",
+                "sectionRank": 47,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotation Specialist - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687925",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:26:50Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "76687925",
+                "section": "MAIN",
+                "sectionRank": 48,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotation Specialist - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687905",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:26:49Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Surabaya, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Surabaya Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "76687905",
+                "section": "MAIN",
+                "sectionRank": 49,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotation Specialist - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60976140",
+                "description": "Rakhasa Artha Wisesa"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Rakhasa Artha Wisesa",
+            "companyProfileStructuredDataId": 520379,
+            "displayType": "standard",
+            "id": "79660240",
+            "isFeatured": false,
+            "listingDate": "2024-07-14T12:53:24Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kalideres, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kalideres Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-scientist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "79660240",
+                "section": "MAIN",
+                "sectionRank": 50,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Bahasa Pemrograman: Kemahiran dalam Python (terutama untuk ilmu data, Model AI, Kumpulan Data, dan Pelatihan) merupakan keharusan.\nMachine Learning...",
+            "title": "Data Scientist",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Tokenmetrics"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "75872002",
+            "isFeatured": false,
+            "listingDate": "2024-05-14T19:32:10Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "machine-learning-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "75872002",
+                "section": "MAIN",
+                "sectionRank": 51,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Bachelor's degree in computer science, data science, mathematics, or a related field.\nMaster’s degree in computational linguistics, data science, d...",
+            "title": "Crypto Data Scientist / Machine Learning Engineer (Indonesia-Remote)",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Visasoft Ltd"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6283",
+                        "description": "Analis Bisnis/Sistem"
+                    }
+                }
+            ],
+            "companyName": "Visasoft",
+            "companyProfileStructuredDataId": 700125,
+            "displayType": "standard",
+            "id": "77653325",
+            "isFeatured": false,
+            "listingDate": "2024-07-29T05:38:45Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "head-of-data-science",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "77653325",
+                "section": "MAIN",
+                "sectionRank": 52,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "This individual will be part of VCA’s geographic cluster of Indonesia, Philippines, Vietnam, Myanmar and Cambodia (IPVMC) markets, and will be resp...",
+            "title": "Head of Data Science - Visa Consulting & Analytics, Indonesia",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Mindrift"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mindrift",
+            "companyProfileStructuredDataId": 698040,
+            "displayType": "standard",
+            "id": "76687983",
+            "isFeatured": false,
+            "listingDate": "2024-06-18T19:57:39Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bekasi, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bekasi Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Annotator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "76687983",
+                "section": "MAIN",
+                "sectionRank": 53,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Industries across the board are embracing AI, and the backbone of this revolution is accurate data labeling (data annotation). As an AI Tutor - Exp...",
+            "title": "Data Annotator - Freelance",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60189171",
+                "description": "PT IBM Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "IBM",
+            "companyProfileStructuredDataId": 4859,
+            "displayType": "standard",
+            "id": "80369430",
+            "isFeatured": false,
+            "listingDate": "2024-11-23T01:26:34Z",
+            "listingDateDisplay": "1 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "80369430",
+                "section": "MAIN",
+                "sectionRank": 54,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "As Data Engineer, you will gathers and collects the data, stores it, does batch processing or real-time processing on it, and serves it via an API ...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60928210",
+                "description": "Lion Parcel"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Lion Parcel",
+            "companyProfileStructuredDataId": 434628,
+            "displayType": "standard",
+            "id": "80334613",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T08:15:28Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "80334613",
+                "section": "MAIN",
+                "sectionRank": 55,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Having experiences as a Data Engineer or Data Analyst is preferable.\nExcellent command of programming languages, preferably in Python.\nFamiliar in ...",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTUiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60191971",
+                "description": "PT AIA Financial"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6092",
+                        "description": "Manufaktur, Transportasi & Logistik"
+                    },
+                    "subclassification": {
+                        "id": "6108",
+                        "description": "Pergudangan, Penyimpanan & Distribusi"
+                    }
+                }
+            ],
+            "companyName": "AIA",
+            "companyProfileStructuredDataId": 367840,
+            "displayType": "standard",
+            "id": "80364718",
+            "isFeatured": false,
+            "listingDate": "2024-11-22T07:00:00Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "80364718",
+                "section": "MAIN",
+                "sectionRank": 56,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "To get there, we need people with tech/digital/analytics expertise and passion to help develop positive, sustainable change through digitally enhan...",
+            "title": "Data Analytics",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60187602",
+                "description": "PT Smartfren Telecom Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Smartfren Telecom",
+            "companyProfileStructuredDataId": 414294,
+            "displayType": "standard",
+            "id": "80340176",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T18:07:33Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-analyst",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "80340176",
+                "section": "MAIN",
+                "sectionRank": 57,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "Identifying data sources and appropriate ways to analyse data using various coding languages to analyse data\nUsing specialist tools for data visual...",
+            "title": "Sr. Data Analyst",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60976140",
+                "description": "Rakhasa Artha Wisesa"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Rakhasa Artha Wisesa",
+            "companyProfileStructuredDataId": 520379,
+            "displayType": "standard",
+            "id": "80343082",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T15:19:59Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kalideres, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kalideres Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "programmer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "80343082",
+                "section": "MAIN",
+                "sectionRank": 58,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "- Merancang, melatih, dan mengoptimalkan model machine learning dan deep learning sesuai kebutuhan proyek. - Melakukan eksplorasi teknologi terbaru...",
+            "title": "Programmer Python (Machine Learning & AI)",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60246968",
+                "description": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1223",
+                        "description": "Sains & Teknologi"
+                    },
+                    "subclassification": {
+                        "id": "6222",
+                        "description": "Matematika, Statistik & Teknik Informasi"
+                    }
+                }
+            ],
+            "companyName": "Sigma Global Technology",
+            "companyProfileStructuredDataId": 639209,
+            "displayType": "standard",
+            "id": "80362677",
+            "isFeatured": false,
+            "listingDate": "2024-11-22T07:06:51Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kecamatan Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kecamatan Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-scientist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "80362677",
+                "section": "MAIN",
+                "sectionRank": 59,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Data Science and Statistics skills\nData Analytics and Data Analysis proficiency\nData Visualization expertise\nmanpower with SQL and Tableau knowledg...",
+            "title": "Data Scientist",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMTkiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60894632",
+                "description": "PT Magna Finance Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80315996",
+            "isFeatured": false,
+            "listingDate": "2024-11-20T21:55:24Z",
+            "listingDateDisplay": "3 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "team-leader",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+                "jobId": "80315996",
+                "section": "MAIN",
+                "sectionRank": 60,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "The Team Lead (m/f/x) - Big Data Analytics leads a team of functional discipline engineers who work in data annotation, KPI script development for ...",
+            "title": "Team Lead (m/f/x) - Big Data Analytics",
+            "tracking": "ewogICJ0b2tlbiI6ICIzMjQ4MDMyNy0yYWI4LTQ2OWQtOTAwNi1kMWI3OGYxNGY1NDVfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 97,
+    "info": {
+        "timeTaken": 22,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3486690340448854587",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "3395e2e5-0f28-4918-9016-44d7fd2a977e",
+        "token": "0~3395e2e5-0f28-4918-9016-44d7fd2a977e",
+        "keywords": "dataengineer",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 3,
+        "totalJobCount": 97,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "0",
+            "mordor:result_count_vec": "97",
+            "mordor:rt": "14",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "100",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.320",
+            "mordor:count_rst": "0",
+            "mordor:count_ir": "0",
+            "mordor:result_count_ir": "0"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "3",
+        "seekselectallpages": "true",
+        "keywords": "dataengineer",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

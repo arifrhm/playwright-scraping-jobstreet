@@ -1,0 +1,1515 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60860688",
+                "description": "PT Mitra Teleinformatika Perkasa"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/2591c607-a974-4b0f-9f39-2fe18868ba05.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Mitra TeleInformatics Perkasa",
+            "companyProfileStructuredDataId": 427702,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "79807808",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T08:55:01Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "robotic-process-automation-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "79807808",
+                "section": "MAIN",
+                "sectionRank": 661,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EXPIRES_SOON",
+                    "label": "Akan segera berakhir"
+                }
+            ],
+            "teaser": "The RPA Developer is responsible for designing, developing, and implementing Robotic Process Automation solutions to streamline business processes.",
+            "title": "RPA Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61161097",
+                "description": "PT Smoore Technology Indonesia"
+            },
+            "bulletPoints": [
+                "various abnormal fault handling of IT system",
+                "repair of telephone lines and coordination with suppliers for VPN network",
+                "system installation and domain assignment account permissions"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/78a56173-c373-4431-b67f-da1efcb8f992.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6291",
+                        "description": "Meja Bantuan & Dukungan IT"
+                    }
+                }
+            ],
+            "companyName": "Smoore Technology Indonesia",
+            "companyProfileStructuredDataId": 659077,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80295744",
+            "isFeatured": false,
+            "listingDate": "2024-11-20T04:20:07Z",
+            "listingDateDisplay": "4 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Sidoarjo, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Sidoarjo Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80295744",
+                "section": "MAIN",
+                "sectionRank": 662,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "This position responsible for various abnormal fault handling of IT system and employee software installation",
+            "title": "IT Specialist",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "78631629",
+            "isFeatured": false,
+            "listingDate": "2024-09-05T09:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "78631629",
+                "section": "MAIN",
+                "sectionRank": 663,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Mobile software engineering is at the heart of mobile products and capabilities at Traveloka (iOS or Android mobile applications). A mobile enginee...",
+            "title": "Software Engineer - iOS",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60905429",
+                "description": "PT Trinusa Travelindo"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Traveloka",
+            "companyProfileStructuredDataId": 402374,
+            "displayType": "standard",
+            "id": "79268254",
+            "isFeatured": false,
+            "listingDate": "2024-10-03T04:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "front-end-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "79268254",
+                "section": "MAIN",
+                "sectionRank": 664,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "As a Frontend Software Engineer within the Transport team, you'll have the opportunity to contribute to the design, development, and maintenance of...",
+            "title": "Frontend Software Engineer - Flight",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60253860",
+                "description": "PT Probesco Disatama"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/7a56c4ad-5001-440b-971c-11ace072b531.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6300",
+                        "description": "Telekomunikasi"
+                    }
+                }
+            ],
+            "companyName": "Probesco Disatama",
+            "companyProfileStructuredDataId": 436207,
+            "displayType": "standard",
+            "id": "80215612",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T10:19:25Z",
+            "listingDateDisplay": "8 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-supervisor",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80215612",
+                "section": "MAIN",
+                "sectionRank": 665,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Job Descriptions :\n*Ensure that all hardware and software devices are running well, Ensure that the network (LAN), internet and email are running well",
+            "title": "SUPERVISOR IT",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60964262",
+                "description": "PT Ninety Nine Dotco"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6295",
+                        "description": "Manajemen Program & Proyek"
+                    }
+                }
+            ],
+            "companyName": "99 Group",
+            "companyProfileStructuredDataId": 507967,
+            "displayType": "standard",
+            "id": "78993412",
+            "isFeatured": false,
+            "listingDate": "2024-09-20T11:50:39Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "software-project-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "78993412",
+                "section": "MAIN",
+                "sectionRank": 666,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "99 Group is seeking an Delivery Manager who has a strong experience in facilitates the timely production of software and other computer products th...",
+            "title": "Software Project Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60253860",
+                "description": "PT Probesco Disatama"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/7a56c4ad-5001-440b-971c-11ace072b531.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6292",
+                        "description": "Manajemen"
+                    }
+                }
+            ],
+            "companyName": "Probesco Disatama",
+            "companyProfileStructuredDataId": 436207,
+            "displayType": "standard",
+            "id": "80214779",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T09:47:44Z",
+            "listingDateDisplay": "8 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "information-technology-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80214779",
+                "section": "MAIN",
+                "sectionRank": 667,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Job Descriptions :\n*Ensure that all hardware and software devices are running well, Ensure that the network (LAN), internet and email are running well",
+            "title": "MANAGER IT",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61616855",
+                "description": "PT. DREAME TECHNOLOGY INDONESIA"
+            },
+            "bulletPoints": [
+                "Great career potential",
+                "Fulltime job opportunity",
+                "Excellent working culture"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/4e4f7e7a-ab68-4cc9-8e37-b47dea60ef6e.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6273",
+                        "description": "Desain Web & Interaksi"
+                    }
+                }
+            ],
+            "companyName": "Dreame Technology Indonesia",
+            "companyProfileStructuredDataId": 668839,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80268875",
+            "isFeatured": false,
+            "listingDate": "2024-11-19T04:52:23Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "creative-designer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80268875",
+                "section": "MAIN",
+                "sectionRank": 668,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Internship for 6 months at DREAME INDONESIA, no experience required, but must familiar with design software such as Adobe Illustrator, Photoshop, etc.",
+            "title": "Creative Designer - INTERN",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfOCIKfQ==",
+            "workTypes": [
+                "Kasual"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62581629",
+                "description": "PT Bizlink Technology Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/bd6198e0-42a4-4f41-a917-8033c0daae3c.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6035",
+                        "description": "Teknik Mesin"
+                    }
+                }
+            ],
+            "companyName": "PT BizLink Technology Indonesia",
+            "companyProfileStructuredDataId": 715357,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80241801",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T04:54:46Z",
+            "listingDateDisplay": "6 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Batam, Kepulauan Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Batam Kepulauan Riau"
+                        },
+                        {
+                            "contextualName": "Kepulauan Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "mechanical-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80241801",
+                "section": "MAIN",
+                "sectionRank": 669,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Design, prototype, test, and optimize mechanical products using CAD software; manage projects, select materials, and ensure quality compliance.",
+            "title": "Mechanical Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60860318",
+                "description": "PT Interprima Indocom"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/cdae52ad-6209-41c0-99a3-a486c476b57b.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1200",
+                        "description": "Akuntansi"
+                    },
+                    "subclassification": {
+                        "id": "6151",
+                        "description": "Akuntansi & Pelaporan Finansial"
+                    }
+                }
+            ],
+            "companyName": "Interprima Indocom",
+            "companyProfileStructuredDataId": 433816,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80239482",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T03:40:43Z",
+            "listingDateDisplay": "6 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "accounting-supervisor",
+            "salaryLabel": "Rp 6,000,000 – Rp 7,500,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80239482",
+                "section": "MAIN",
+                "sectionRank": 670,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Supervisor Accounting menguasai sistem akuntasi perusahaan dengan menggunakan software akuntasi MyOB dan SAGE",
+            "title": "Supervisor Accounting",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60903621",
+                "description": "PT. Lestari Mulia Sentosa"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/512854f5-2082-4a70-95dd-e7088726cded.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6035",
+                        "description": "Teknik Mesin"
+                    }
+                }
+            ],
+            "companyName": "Lestari Mulia Sentosa",
+            "companyProfileStructuredDataId": 434588,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80239281",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T03:39:14Z",
+            "listingDateDisplay": "6 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Sidoarjo, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Sidoarjo Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "computer-numerical-control-machine-operator",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80239281",
+                "section": "MAIN",
+                "sectionRank": 671,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Mengerti dan memahami software CAD dan CAM, mampu membaca gambar teknik dan menganalisa hasil produksi",
+            "title": "Operator Mesin CNC",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61931631",
+                "description": "Kerthi Bali Santhi"
+            },
+            "bulletPoints": [
+                "Opportunity to develop long-term career",
+                "Opportunity to build technological skill in developing apps in tourism industry",
+                "Supported by good work equipment facilities"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/7ebaa2c1-89f0-48dc-bbfd-000fd05d89a3.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6301",
+                        "description": "Uji Coba & Penjaminan Mutu"
+                    }
+                }
+            ],
+            "companyName": "Kerthi Bali Santhi",
+            "companyProfileStructuredDataId": 705050,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80297713",
+            "isFeatured": false,
+            "listingDate": "2024-11-20T05:40:07Z",
+            "listingDateDisplay": "4 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Denpasar, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Denpasar Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "quality-assurance-role",
+            "salaryLabel": "Rp 6.000.000 – Rp 9.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80297713",
+                "section": "MAIN",
+                "sectionRank": 672,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Join us as a Senior QA in Tech Start-Up in Bali! Lead testing, mentor teams, and ensure top-quality software in a dynamic, Agile-driven environment.",
+            "title": "Senior IT Quality Assurance (Bali)",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60526693",
+                "description": "PT UangMe Fintek Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/49d4a30e-f087-4ade-bb14-8c4739b1aa30.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "Uangme Fintech Indonesia",
+            "companyProfileStructuredDataId": 438347,
+            "displayType": "standard",
+            "id": "80164764",
+            "isFeatured": false,
+            "listingDate": "2024-11-13T16:04:12Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "php-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80164764",
+                "section": "MAIN",
+                "sectionRank": 673,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "The role of is to build high-quality, innovative, and fully performing software that complies with coding standards and technical design.",
+            "title": "PHP Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60901945",
+                "description": "PT Jaya Utama Perkasa"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyName": "PT Jaya Utama Perkasa",
+            "companyProfileStructuredDataId": 665001,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80240502",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T04:08:00Z",
+            "listingDateDisplay": "6 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Margaasih, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Margaasih Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "oracle-developer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80240502",
+                "section": "MAIN",
+                "sectionRank": 674,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Melakukan instalasi (Merakit dan install ulang software) PC serta perawatan\nMembuat dan mengembangkan aplikasi sesuai dengan kebutuhan perusahaan",
+            "title": "Oracle Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTQiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60864797",
+                "description": "PT Mitra Infosarana"
+            },
+            "bulletPoints": [
+                "BPJS Kesehatan",
+                "BPJS Ketenagakerjaan",
+                "Medical Reimbursement"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d9da30a7-c043-4222-83cc-8c6f3530f303.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6296",
+                        "description": "Penjualan – Pra & Pasca"
+                    }
+                }
+            ],
+            "companyName": "Mitra Infosarana",
+            "companyProfileStructuredDataId": 427681,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80183854",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T07:51:42Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80183854",
+                "section": "MAIN",
+                "sectionRank": 675,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Having good knowledge in Information Technology such as: Software Solutions and Software technology.",
+            "title": "Presales IT",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60892844",
+                "description": "CV Krea Kalyana Kaamita"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/d42d528f-2d0d-4fed-936c-47aef7dbc2b3.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6270",
+                        "description": "Desain Interior"
+                    }
+                }
+            ],
+            "companyName": "Krea Kalyana Kaamita",
+            "companyProfileStructuredDataId": 434416,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80252035",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T10:34:00Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "interior-designer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80252035",
+                "section": "MAIN",
+                "sectionRank": 676,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "WELCOME, New Challengers! Our new project looking for designers well versed in technical aspects in software usage and a balance of artistic...",
+            "title": "SENIOR INTERIOR DESIGNER",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60464904",
+                "description": "pt.anugerah megah lestari textile"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/30d1c55a-26a8-4db5-94ce-fb3ffd852a58.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6267",
+                        "description": "Desain Busana & Tekstil"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80208739",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T06:52:13Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kabupaten Bandung, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kabupaten Bandung Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "textile-designer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80208739",
+                "section": "MAIN",
+                "sectionRank": 677,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Textile Designer memiliki pengetahuan mengenai Pabric, Pattern dan Printing. Memahami jenis kain. Membuat design pattern dengan software.",
+            "title": "Textile Designer",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60892106",
+                "description": "PT Orientraco Perkasa"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1200",
+                        "description": "Akuntansi"
+                    },
+                    "subclassification": {
+                        "id": "6151",
+                        "description": "Akuntansi & Pelaporan Finansial"
+                    }
+                }
+            ],
+            "companyName": "Orientraco Perkasa",
+            "companyProfileStructuredDataId": 435660,
+            "displayType": "standard",
+            "id": "80201636",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T03:28:47Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang Selatan, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Selatan Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "accounting",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80201636",
+                "section": "MAIN",
+                "sectionRank": 678,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Bertanggung jawab dalam proses pengerjaan laporan keuangan perusahaan, mahir menggunakan Software Accurate dan lainnya.",
+            "title": "SENIOR ACCOUNTING",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTgiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60889840",
+                "description": "PT Alam Lestari Unggul"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/71cccf10-0cca-47cd-86c7-a13ac04c266b.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6025",
+                        "description": "Drafting Teknik"
+                    }
+                }
+            ],
+            "companyName": "Alam Lestari Unggul",
+            "companyProfileStructuredDataId": 426130,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80200246",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T02:41:37Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Cikupa, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Cikupa Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "draftperson_2",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80200246",
+                "section": "MAIN",
+                "sectionRank": 679,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Deskripsi Pekerjaan : Mengoperasikan software autocad / progecad 2024 membaca gambar teknik untuk diaplikasikan ",
+            "title": "DRAFTER",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMTkiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60296482",
+                "description": "PT Cipta Piranti Sejahtera"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1dd889a8-ddd6-446b-b6b0-9ef0966ce384.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6368",
+                        "description": "Perwakilan/Konsultan Penjualan"
+                    }
+                }
+            ],
+            "companyName": "Cipta Piranti Sejahtera",
+            "companyProfileStructuredDataId": 431628,
+            "displayType": "standard",
+            "id": "80212063",
+            "isFeatured": false,
+            "listingDate": "2024-11-15T09:08:02Z",
+            "listingDateDisplay": "8 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "sales-executive",
+            "salaryLabel": "Rp 4.500.000 – Rp 5.500.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+                "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+                "jobId": "80212063",
+                "section": "MAIN",
+                "sectionRank": 680,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "How many years of your experience in selling software as a service?",
+            "title": "Sales Executive Area Jakarta",
+            "tracking": "ewogICJ0b2tlbiI6ICIwYjY4YWQ5YS0yYWFjLTRkYzAtOThmNi1mNzAyN2Y3MDQ4MjBfMjAiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        }
+    ],
+    "totalCount": 3920,
+    "info": {
+        "timeTaken": 35,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API4338724991479539504",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "ac01c164-c1b0-42fd-a729-fa2168505379",
+        "token": "0~ac01c164-c1b0-42fd-a729-fa2168505379",
+        "keywords": "software",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 34,
+        "totalJobCount": 3920,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "403",
+            "mordor:result_count_vec": "1",
+            "mordor:rt": "26",
+            "mordor_vs:retrieved_count": "38101",
+            "mordor:count_vec": "1",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.658",
+            "mordor:count_rst": "407",
+            "mordor:count_ir": "3519",
+            "mordor:result_count_ir": "3516"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "34",
+        "seekselectallpages": "true",
+        "keywords": "software",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

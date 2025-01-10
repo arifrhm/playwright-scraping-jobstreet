@@ -1,0 +1,1484 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Staffinc Talent"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Staffinc Group",
+            "companyProfileStructuredDataId": 667597,
+            "displayType": "standard",
+            "id": "76720363",
+            "isFeatured": false,
+            "listingDate": "2024-06-20T09:46:55Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "76720363",
+                "section": "MAIN",
+                "sectionRank": 101,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "We are seeking a skilled and experienced DevOps Engineer to join our client's team. The ideal candidate will be responsible for managing, maintaini...",
+            "title": "DevOps Engineer (Talent Pool)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMSIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60870022",
+                "description": "PT NTT Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "NTT Data",
+            "companyProfileStructuredDataId": 1686,
+            "displayType": "standard",
+            "id": "80191526",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T14:41:01Z",
+            "listingDateDisplay": "9 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kemayoran, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kemayoran Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "managed-services-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80191526",
+                "section": "MAIN",
+                "sectionRank": 102,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "The Cloud Managed Services Engineer (L2) is a developing engineering role, responsible for providing a managed service to clients to ensure that th...",
+            "title": "Cloud Managed Services Engineer (L2)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "PT Simplefi Teknologi Indonesia (Awan Tunai)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79892608",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T08:12:24Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "79892608",
+                "section": "MAIN",
+                "sectionRank": 103,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "AwanTunai is looking for a Senior DevOps Engineer who will be overseeing the integration of development and operations processes, ensuring efficien...",
+            "title": "Senior DevOps Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60894632",
+                "description": "PT Magna Finance Tbk"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79892778",
+            "isFeatured": false,
+            "listingDate": "2024-10-31T11:47:51Z",
+            "listingDateDisplay": "23 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "79892778",
+                "section": "MAIN",
+                "sectionRank": 104,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Magna New Mobility is seeking a Lead DevOps Engineer with extensive experience in an AWS Cloud environment. As the Lead DevOps Engineer, you will h...",
+            "title": "Lead DevOps Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ],
+                "displayText": "Kantor, Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Cloud Kinetics"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80136708",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T12:28:58Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "cloud-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80136708",
+                "section": "MAIN",
+                "sectionRank": 105,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Work within a support team and support the 24x7 cloud operations.\nRespond to customer service issues using email, phone and web conference.\nCoordin...",
+            "title": "Cloud Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60976140",
+                "description": "Rakhasa Artha Wisesa"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6298",
+                        "description": "Pemimpin Tim"
+                    }
+                }
+            ],
+            "companyName": "Rakhasa Artha Wisesa",
+            "companyProfileStructuredDataId": 520379,
+            "displayType": "standard",
+            "id": "80343652",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T08:49:34Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kalideres, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kalideres Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80343652",
+                "section": "MAIN",
+                "sectionRank": 106,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Syarat (Kualifikasi) 1. Pendidikan dan Pengalaman: - Minimal S1 Teknologi Informasi, Ilmu Komputer, atau bidang terkait. - Pengalaman minimal 5 tah...",
+            "title": "IT Manajer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfNiIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60929048",
+                "description": "Enak Amazon makanan"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6282",
+                        "description": "Arsitek"
+                    }
+                }
+            ],
+            "companyName": "Amazon",
+            "companyProfileStructuredDataId": 3889,
+            "displayType": "standard",
+            "id": "80342913",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T12:00:00Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "solutions-architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80342913",
+                "section": "MAIN",
+                "sectionRank": 107,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Come join the Amazon Web Services (AWS) team as Solutions Architect in Indonesia! and this position you will carry out some of roles and responsibi...",
+            "title": "Solutions Architect, Indonesia SA Team",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfNyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Aurora Executive Placement"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6292",
+                        "description": "Manajemen"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80335971",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T11:40:25Z",
+            "listingDateDisplay": "2 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80335971",
+                "section": "MAIN",
+                "sectionRank": 108,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "teaser": "Experience: 15+ years in DevOps/Cloud/Infrastructure roles.\nLeadership: 5+ years in team leadership or Project Manager/Dept Head roles.\nCloud Exper...",
+            "title": "Infrastructure & Data Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Snaphunt"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80041474",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T02:23:09Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Typescript-Engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80041474",
+                "section": "MAIN",
+                "sectionRank": 109,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "4"
+                }
+            },
+            "teaser": "As a Server-Side TypeScript Engineer, you will be an integral part of our technology team, responsible for building robust and scalable server-side...",
+            "title": "Senior Typescript Engineer (Server-side)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Practical DevSecOps"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "76727512",
+            "isFeatured": false,
+            "listingDate": "2024-06-20T00:00:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Yogyakarta, DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Yogyakarta DI Yogyakarta"
+                        },
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "front-end-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "76727512",
+                "section": "MAIN",
+                "sectionRank": 110,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": ":JobWe are looking for a Senior Front End Engineer - React, SDE - II to be a part of our Indonesian team working together in a virtual/office envir...",
+            "title": "Senior Front End Engineer - React",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "2",
+                        "label": {
+                            "text": "Hibrid"
+                        }
+                    }
+                ],
+                "displayText": "Hibrid"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Setara Networks"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6294",
+                        "description": "Manajemen & Pengembangan Produk"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80099445",
+            "isFeatured": false,
+            "listingDate": "2024-11-10T13:01:03Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "product-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80099445",
+                "section": "MAIN",
+                "sectionRank": 111,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "As a Product Manager DevOps and Security you will be at the forefront of this movement, shaping what an exceptional payment experience looks and fe...",
+            "title": "Product Manager, DevOps and Security",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60896040",
+                "description": "PT Tech Data Advanced Solutions Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Tech Data Advanced Solutions Indonesia",
+            "companyProfileStructuredDataId": 437641,
+            "displayType": "standard",
+            "id": "77827876",
+            "isFeatured": false,
+            "listingDate": "2024-08-02T09:30:00Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "solutions-architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "77827876",
+                "section": "MAIN",
+                "sectionRank": 112,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "The Red Hat Sales team is looking for an experienced sales engineer to join us as a Senior Account Solutions Architect. In this role, you will be t...",
+            "title": "Senior Solution Architect, Indonesia",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTIiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60891479",
+                "description": "PT DES Teknologi Informasi"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "DES Information Technology",
+            "companyProfileStructuredDataId": 633338,
+            "displayType": "standard",
+            "id": "80343242",
+            "isFeatured": false,
+            "listingDate": "2024-11-21T02:27:06Z",
+            "listingDateDisplay": "3 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Semarang, Jawa Tengah",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Semarang Jawa Tengah"
+                        },
+                        {
+                            "contextualName": "Jawa Tengah"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "site-reliability-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80343242",
+                "section": "MAIN",
+                "sectionRank": 113,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Menyiapkan infrastruktur layanan Managed Services cloud server termasuk web dan mail hosting. - Membuat dokumentasi terhadap sistem cloud server, s...",
+            "title": "Senior Site Reliability Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTMiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60870022",
+                "description": "PT NTT Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6301",
+                        "description": "Uji Coba & Penjaminan Mutu"
+                    }
+                }
+            ],
+            "companyName": "NTT Data",
+            "companyProfileStructuredDataId": 1686,
+            "displayType": "standard",
+            "id": "80368298",
+            "isFeatured": false,
+            "listingDate": "2024-11-22T21:55:13Z",
+            "listingDateDisplay": "1 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Kebayoran Lama, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Kebayoran Lama Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "quality-assurance-role",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80368298",
+                "section": "MAIN",
+                "sectionRank": 114,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "The primary responsibility of the Associate Software Quality Assurance / Testing Engineer is to assist with every phase of the development process ...",
+            "title": "Associate Software Quality Assurance / Testing Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Snaphunt"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Snaphunt",
+            "companyProfileStructuredDataId": 390542,
+            "displayType": "standard",
+            "id": "80309533",
+            "isFeatured": false,
+            "listingDate": "2024-11-19T02:37:08Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80309533",
+                "section": "MAIN",
+                "sectionRank": 115,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "At First Digital Finance Corp, we’re passionate about building software that solves problems. We will count on our site reliability engineer (SRE) ...",
+            "title": "Senior DevOps Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTUiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62687885",
+                "description": "My Free Course"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80108709",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T14:36:16Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "developer",
+            "salaryLabel": "Rp 10,000,000 – Rp 15,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80108709",
+                "section": "MAIN",
+                "sectionRank": 116,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Experienced developer needed to maintain an online educational platform.\n",
+            "title": "Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "3",
+                        "label": {
+                            "text": "Jarak jauh"
+                        }
+                    }
+                ],
+                "displayText": "Jarak jauh"
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62602453",
+                "description": "B One Consulting"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79960840",
+            "isFeatured": false,
+            "listingDate": "2024-11-05T01:46:56Z",
+            "listingDateDisplay": "19 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Badung, Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Badung Bali"
+                        },
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "full-stack-developer",
+            "salaryLabel": "Rp 10.000.000 – Rp 13.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "79960840",
+                "section": "MAIN",
+                "sectionRank": 117,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "B One Consulting is looking for Senior Full-Stack Developer to work closely with our product and design teams and deliver maintainable solutions.",
+            "title": "Senior Full-Stack Developer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "TryAds"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6287",
+                        "description": "Developer/Programmer"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "79819589",
+            "isFeatured": false,
+            "listingDate": "2024-10-28T20:32:56Z",
+            "listingDateDisplay": "26 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Bali",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Bali"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "backend-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "79819589",
+                "section": "MAIN",
+                "sectionRank": 118,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We are looking for a talented Back-End Engineer with a specialization in API development to support our systems' back-end architecture and API inte...",
+            "title": "Backend Engineer (API)",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60246968",
+                "description": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6293",
+                        "description": "Administrasi Jaringan & Sistem"
+                    }
+                }
+            ],
+            "companyName": "Sigma Global Technology",
+            "companyProfileStructuredDataId": 639209,
+            "displayType": "standard",
+            "id": "80255355",
+            "isFeatured": false,
+            "listingDate": "2024-11-18T10:40:38Z",
+            "listingDateDisplay": "5 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "devops-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "80255355",
+                "section": "MAIN",
+                "sectionRank": 119,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "0"
+                }
+            },
+            "tags": [
+                {
+                    "type": "EARLY_APPLICANT",
+                    "label": "Jadilah pelamar pertama"
+                }
+            ],
+            "teaser": "Min. 3 years experience as DevOps\nExperience with IaC Tools ( Terraform / Ansible ) with OnPremise / Cloud Technology\nExperience with CI/CD Process...",
+            "title": "Devops Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMTkiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61941078",
+                "description": "Snaphunt"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6291",
+                        "description": "Meja Bantuan & Dukungan IT"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "76825468",
+            "isFeatured": false,
+            "listingDate": "2024-06-25T06:37:43Z",
+            "listingDateDisplay": "30+ hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "application-support",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+                "jobId": "76825468",
+                "section": "MAIN",
+                "sectionRank": 120,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Unix Skills: Utilize extensive Unix knowledge to support cloud applications and on-prem deployed code, including scripting, automation, and system ...",
+            "title": "Cloud Application Support Technician",
+            "tracking": "ewogICJ0b2tlbiI6ICI5YWJiNGFjMi02Njc3LTRiOTgtOTI1OC0wMzBlNTM3MmQwOTVfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 180,
+    "info": {
+        "timeTaken": 28,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API3921288848010928492",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "05c8d340-686f-4bf2-91b6-83253a69e93e",
+        "token": "0~05c8d340-686f-4bf2-91b6-83253a69e93e",
+        "keywords": "devops",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 6,
+        "totalJobCount": 180,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "91",
+            "mordor:result_count_vec": "32",
+            "mordor:rt": "18",
+            "mordor_vs:retrieved_count": "38100",
+            "mordor:count_vec": "32",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.481",
+            "mordor:count_rst": "91",
+            "mordor:count_ir": "57",
+            "mordor:result_count_ir": "57"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "6",
+        "seekselectallpages": "true",
+        "keywords": "devops",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}

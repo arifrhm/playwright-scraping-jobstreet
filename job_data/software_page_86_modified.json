@@ -1,0 +1,1544 @@
+{
+    "data": [
+        {
+            "advertiser": {
+                "id": "60232614",
+                "description": "PT Sigma Cipta Utama"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5bcc01dd-01f5-4f2e-817e-50f4347d7566.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6290",
+                        "description": "Teknik – Perangkat Lunak"
+                    }
+                }
+            ],
+            "companyName": "Sigma Cipta Utama",
+            "companyProfileStructuredDataId": 663100,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80049265",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T02:32:15Z",
+            "listingDateDisplay": "16 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "data-engineer",
+            "salaryLabel": "Rp 7.000.000 – Rp 9.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80049265",
+                "section": "MAIN",
+                "sectionRank": 1701,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Pengalaman dalam membangun dan mengelola infrastruktur data untuk mendukung kegiatan Proof of Concept yang terkait dengan AI dan ML.",
+            "title": "Data Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61019921",
+                "description": "PT Brinks Solutions Indonesia"
+            },
+            "bulletPoints": [
+                "Limitless growth opportunity & challenge within organization.",
+                "Multinational company with Customer Focus & Engagement values work atmosphere",
+                "Healthy and stable company"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/95b46d88-af06-4ecc-b5b9-e46166c3e68b.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6281",
+                        "description": "Teknologi Informasi & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6294",
+                        "description": "Manajemen & Pengembangan Produk"
+                    }
+                }
+            ],
+            "companyName": "Brinks Solutions Indonesia",
+            "companyProfileStructuredDataId": 646993,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80064193",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T10:17:19Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Selatan, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Selatan Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "product-development-specialist",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80064193",
+                "section": "MAIN",
+                "sectionRank": 1702,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Product Specialist will help IT in documenting the changes of product, and also create guideline of all products.",
+            "title": "Product Development Specialist - DRS",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMiIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60988450",
+                "description": "PT PERFORMA OPTIMA KOMPUTINDO"
+            },
+            "bulletPoints": [
+                "Working Days Monday to Friday",
+                "Sport Hall (Badminton & Yoga once in a week)",
+                "Annual Outing"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/a6e8514e-3a5e-420c-8ebe-a4d7bb646e1b.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6317",
+                        "description": "Sumber Daya Manusia & Perekrutan"
+                    },
+                    "subclassification": {
+                        "id": "6318",
+                        "description": "Konsultasi & HR Umum"
+                    }
+                }
+            ],
+            "companyName": "Performa Optima Group",
+            "companyProfileStructuredDataId": 702662,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80117621",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T02:25:22Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Surabaya, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Surabaya Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Human-Resources-Lead",
+            "salaryLabel": "Rp 9.000.000 – Rp 13.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80117621",
+                "section": "MAIN",
+                "sectionRank": 1703,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Lead HR at POG, an IT and e-procurement solutions firm. Oversees hiring, employee engagement, policy to support growth and align culture with goals.",
+            "title": "Lead Human Resource",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMyIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60186247",
+                "description": "ASIA PULP AND PAPER"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/af9c0a48-e70c-463b-8b06-9fb3760026d0.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6092",
+                        "description": "Manufaktur, Transportasi & Logistik"
+                    },
+                    "subclassification": {
+                        "id": "6109",
+                        "description": "Pembelian, Pengadaan & Inventaris"
+                    }
+                }
+            ],
+            "companyName": "Asia Pulp And Paper",
+            "companyProfileStructuredDataId": 430634,
+            "displayType": "standard",
+            "id": "80061892",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T09:02:48Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Riau",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Riau"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "procurement-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80061892",
+                "section": "MAIN",
+                "sectionRank": 1704,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "-",
+            "title": "Manager Procurement",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfNCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60917648",
+                "description": "PT Fuller Autoparts Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/21157a38-0751-4cf2-90ae-1af84c2ec0e6.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6092",
+                        "description": "Manufaktur, Transportasi & Logistik"
+                    },
+                    "subclassification": {
+                        "id": "6093",
+                        "description": "Pekerjaan Perakitan & Pemrosesan"
+                    }
+                }
+            ],
+            "companyName": "PT Fuller Autoparts Indonesia",
+            "companyProfileStructuredDataId": 664808,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80063781",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T09:53:08Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Head-of-Workshop",
+            "salaryLabel": "Rp 7.100.000 – Rp 9.600.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80063781",
+                "section": "MAIN",
+                "sectionRank": 1705,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Dicari Kepala Workshop yang bertanggjawab dan bisa koordinasi dengan tim dan manajemen , dengan gaji yang menarik\n\n",
+            "title": "KEPALA WORKSHOP",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfNSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60175573",
+                "description": "PT Softex Indonesia"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/5c554db4-071e-49b7-92ce-37c5a3430102.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1200",
+                        "description": "Akuntansi"
+                    },
+                    "subclassification": {
+                        "id": "6150",
+                        "description": "Akuntansi Biaya"
+                    }
+                }
+            ],
+            "companyName": "Softex Indonesia",
+            "companyProfileStructuredDataId": 437164,
+            "displayType": "standard",
+            "id": "80104233",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T09:17:35Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "Costing-Supervisor",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80104233",
+                "section": "MAIN",
+                "sectionRank": 1706,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "This role oversees and manage the cost accounting processes, ensuring and timely calculation, recording and reporting of production costs.",
+            "title": "Costing Supervisor",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfNiIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60967485",
+                "description": "PT Dachin Etech Global"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/89c0ec61-f067-4c8d-a795-c8d4dff5c198.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6362",
+                        "description": "Penjualan"
+                    },
+                    "subclassification": {
+                        "id": "6365",
+                        "description": "Pengembangan Bisnis Baru"
+                    }
+                }
+            ],
+            "companyName": "Dachin Etech Global",
+            "companyProfileStructuredDataId": 431810,
+            "displayType": "standard",
+            "id": "80083121",
+            "isFeatured": false,
+            "listingDate": "2024-11-10T09:56:03Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Surabaya, Jawa Timur",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Surabaya Jawa Timur"
+                        },
+                        {
+                            "contextualName": "Jawa Timur"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "business-development",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80083121",
+                "section": "MAIN",
+                "sectionRank": 1707,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "We're Hiring experience in business development, sales, or a relevant role Have Experience Min 1 year in MT,GT,or Distributor.",
+            "title": "Business Development Surabaya & East Java Area",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfNyIKfQ==",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61022524",
+                "description": "SMOOTHIE THEORY"
+            },
+            "bulletPoints": [
+                "Free smoothies setiap hari",
+                "Potensi mengembangkan kreativitas di lingkungan dinamis",
+                "Pengembangan karir dengan cepat di perusahaan startup"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/1d6b1a7d-e5cb-4b5d-ba81-e234aa8bbc27.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6008",
+                        "description": "Pemasaran & Komunikasi"
+                    },
+                    "subclassification": {
+                        "id": "6010",
+                        "description": "Pemasaran Digital & Pencarian"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80062103",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T09:13:00Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Makassar, Sulawesi Selatan",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Makassar Sulawesi Selatan"
+                        },
+                        {
+                            "contextualName": "Sulawesi Selatan"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "marketing-and-social-media-specialist",
+            "salaryLabel": "Rp 2.500.000 – Rp 3.500.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80062103",
+                "section": "MAIN",
+                "sectionRank": 1708,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Smoothie Theory mencari Community & Social Media Marketing Specialist yang kreatif dan bersemangat untuk memperkuat brand Smoothie Theory di Makassar",
+            "title": "COMMUNITY & SOCIAL MEDIA MARKETING SPECIALIST",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfOCIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "61010308",
+                "description": "PT Inti Roda Makmur"
+            },
+            "bulletPoints": [
+                "Lingkungan kerja yang inovatif dan dinamis",
+                "Kesempatan untuk berkembang dan berkarir di perusahaan yang berkembang pesat",
+                "BPJS Ketenagakerjaan dan Kesehatan"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/bcb8c35e-8176-4051-860e-a22ad1712677.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6029",
+                        "description": "Teknik Lingkungan"
+                    }
+                }
+            ],
+            "companyName": "Intiroda Makmur",
+            "companyProfileStructuredDataId": 427263,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80133391",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T09:44:09Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80133391",
+                "section": "MAIN",
+                "sectionRank": 1709,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Mengembangkan dan mengimplementasikan standar sistem mutu dan K3L (QSHE) dan regulasi pemerintah yang efektif. ",
+            "title": "STAFF QSHE",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfOSIKfQ==",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "",
+                "description": "Pengiklan Anonim"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1200",
+                        "description": "Akuntansi"
+                    },
+                    "subclassification": {
+                        "id": "6151",
+                        "description": "Akuntansi & Pelaporan Finansial"
+                    }
+                }
+            ],
+            "companyName": "Pengiklan Anonim",
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80062061",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T09:11:14Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Karawang, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Karawang Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "accounting-officer",
+            "salaryLabel": "Rp 6.000.000 – Rp 7.500.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80062061",
+                "section": "MAIN",
+                "sectionRank": 1710,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "- Tax\n- Account Payable\n- Account Receive",
+            "title": "Accounting Officer",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTAiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60526129",
+                "description": "Paramount Enterprise"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/af247fd1-da23-4b63-b55a-3eb9c4df13fa.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6264",
+                        "description": "Arsitektur"
+                    }
+                }
+            ],
+            "companyName": "Paramount Land",
+            "companyProfileStructuredDataId": 435830,
+            "displayType": "standard",
+            "id": "80000426",
+            "isFeatured": false,
+            "listingDate": "2024-11-06T07:06:37Z",
+            "listingDateDisplay": "18 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Tangerang, Banten",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Tangerang Banten"
+                        },
+                        {
+                            "contextualName": "Banten"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "architect",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80000426",
+                "section": "MAIN",
+                "sectionRank": 1711,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Paramount Land engages in township development, integrated mixed-use developments, real estate, and warehousing.",
+            "title": "Architect",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTEiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60276970",
+                "description": "PT Ciptajaya Sejahtera Abadi"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/76a56d45-479b-4be3-aaa6-b6c42b101f4c.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6027",
+                        "description": "Teknik Sipil/Struktural"
+                    }
+                }
+            ],
+            "companyName": "Ciptajaya Sejahtera Abadi",
+            "companyProfileStructuredDataId": 542690,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80020985",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T03:20:01Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "engineer---civil--structural",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80020985",
+                "section": "MAIN",
+                "sectionRank": 1712,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Pendidikan minimal D3 Teknik Sipil. Memiliki pengalaman minimum 3 tahun sebagai Structural Engineer di perusahaan bidang tower telekomunikasi \n",
+            "title": "Civil Structural Engineer",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTIiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62080341",
+                "description": "Divine Oracular Assistance"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/52c576be-7623-4024-8470-02404c025a32.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6304",
+                        "description": "Periklanan, Seni & Media"
+                    },
+                    "subclassification": {
+                        "id": "6307",
+                        "description": "Penyuntingan & Penerbitan"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80040507",
+            "isFeatured": false,
+            "listingDate": "2024-11-07T16:14:50Z",
+            "listingDateDisplay": "16 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Pusat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Pusat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "video-editor",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80040507",
+                "section": "MAIN",
+                "sectionRank": 1713,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Editing, cutting videos, arranging, and adding visual/sound effects to produce engaging and high-quality content.",
+            "title": "Video Editor ( Freelance)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTMiCn0=",
+            "workTypes": [
+                "Kasual"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60872183",
+                "description": "PT. Mustika Citra Rasa"
+            },
+            "bulletPoints": [],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/91914890-a9ca-4f50-a3be-76462a7ab64d.2/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6043",
+                        "description": "Ritel & Produk Konsumen"
+                    },
+                    "subclassification": {
+                        "id": "6047",
+                        "description": "Manajemen – Toko"
+                    }
+                }
+            ],
+            "companyName": "Mustika Citra Rasa",
+            "companyProfileStructuredDataId": 439944,
+            "displayType": "standard",
+            "id": "80101938",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T07:37:08Z",
+            "listingDateDisplay": "13 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Pontianak, Kalimantan Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Pontianak Kalimantan Barat"
+                        },
+                        {
+                            "contextualName": "Kalimantan Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "branch-manager",
+            "salaryLabel": "Rp 10,000,000 – Rp 15,000,000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80101938",
+                "section": "MAIN",
+                "sectionRank": 1714,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "- Jenjang Karir\n- Insentif\n- Bonus",
+            "title": "Branch Manager - Pontianak",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTQiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62301788",
+                "description": "PT Teknologi Internasional Nusantara"
+            },
+            "bulletPoints": [
+                "THR",
+                "Competitive Salary",
+                "Comfortable Workplace"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/06d64a1c-83bc-4cb3-b8a1-1e97392cd7c3.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1203",
+                        "description": "Perbankan & Layanan Finansial"
+                    },
+                    "subclassification": {
+                        "id": "6179",
+                        "description": "Kepatuhan & Resiko"
+                    }
+                }
+            ],
+            "companyName": "PT Teknologi Internasional Nusantara",
+            "companyProfileStructuredDataId": 705702,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80060718",
+            "isFeatured": false,
+            "listingDate": "2024-11-08T08:23:54Z",
+            "listingDateDisplay": "15 hari yang lalu",
+            "locations": [
+                {
+                    "label": "DI Yogyakarta",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "DI Yogyakarta"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "quality-control-role",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80060718",
+                "section": "MAIN",
+                "sectionRank": 1715,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "good communication and time management",
+            "title": "Quality Control (Desk Collection) Yogyakarta",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTUiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62517047",
+                "description": "Breylee & Lanbena"
+            },
+            "bulletPoints": [
+                "Career Path",
+                "Comfortable Work Environment",
+                "Opportunity to Learn and Grow in Digital Marketing"
+            ],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6304",
+                        "description": "Periklanan, Seni & Media"
+                    },
+                    "subclassification": {
+                        "id": "6311",
+                        "description": "Strategi Media, Perencanaan & Pembelian"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80124297",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T04:55:51Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Barat, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Barat Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "creative-designer",
+            "salaryLabel": "Rp 7.000.000 – Rp 10.000.000 per month",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80124297",
+                "section": "MAIN",
+                "sectionRank": 1716,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "You’ll have the opportunity to work with a collaborative team of innovators, developing solutions and driving initiatives that truly make an impact.",
+            "title": "CREATIVE DESIGNER",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTYiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "62169227",
+                "description": "PT. CLOUD OFFICE INDONESIA"
+            },
+            "bulletPoints": [
+                "Multi-Disciplined Studio with a solid pipeline of projects",
+                "Join a growing friendly team in Jakarta Office",
+                "Exciting growth in the Architectural and Engineering Field"
+            ],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6263",
+                        "description": "Desain & Arsitektur"
+                    },
+                    "subclassification": {
+                        "id": "6265",
+                        "description": "Drafting Arsitektur"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80008173",
+            "isFeatured": false,
+            "listingDate": "2024-11-06T13:23:09Z",
+            "listingDateDisplay": "17 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "revit-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80008173",
+                "section": "MAIN",
+                "sectionRank": 1717,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": " We are looking for an experienced Architect & BIM Manager with 4+ years experience as a full time role to support the friendly Jakarta team.",
+            "title": "Experienced Revit Manager for Architectural Office",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTciCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "",
+                "description": "Pengiklan Anonim"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1209",
+                        "description": "Teknik"
+                    },
+                    "subclassification": {
+                        "id": "6042",
+                        "description": "Lainnya"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayType": "standard",
+            "id": "80178932",
+            "isFeatured": false,
+            "listingDate": "2024-11-14T06:00:53Z",
+            "listingDateDisplay": "10 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Subang, Jawa Barat",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Subang Jawa Barat"
+                        },
+                        {
+                            "contextualName": "Jawa Barat"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "project-engineer",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80178932",
+                "section": "MAIN",
+                "sectionRank": 1718,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Solve daily problems and ensure normal production",
+            "title": "Engineer(Project,EHS,IE,Technical planning,Electrical,Water Supply and Drainage)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTgiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60977745",
+                "description": "ENKORIO Executive Headhunting Company"
+            },
+            "bulletPoints": [
+                "5 Working Day a Week: Monday to Friday",
+                "Soft Skill Training"
+            ],
+            "branding": {
+                "serpLogoUrl": "https://bx-branding-gateway.cloud.seek.com.au/99128d68-eafa-4569-bd5c-659466132124.1/serpLogo"
+            },
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "6304",
+                        "description": "Periklanan, Seni & Media"
+                    },
+                    "subclassification": {
+                        "id": "6307",
+                        "description": "Penyuntingan & Penerbitan"
+                    }
+                }
+            ],
+            "companyProfileStructuredDataId": 0,
+            "displayStyle": {
+                "search": "A"
+            },
+            "displayType": "standout",
+            "id": "80109003",
+            "isFeatured": false,
+            "listingDate": "2024-11-11T15:20:36Z",
+            "listingDateDisplay": "12 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Utara, Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Utara Jakarta Raya"
+                        },
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "video-editor",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80109003",
+                "section": "MAIN",
+                "sectionRank": 1719,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "Kesempatan untuk mengembangkan karir dengan membuat konten creative yang dapat menguatkan branding perusahaan & up to date dengan tren video & visual.",
+            "title": "Video Editor (Magang)",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMTkiCn0=",
+            "workTypes": [
+                "Kontrak"
+            ],
+            "workArrangements": {
+                "data": []
+            }
+        },
+        {
+            "advertiser": {
+                "id": "60860460",
+                "description": "PT Schneider Electric"
+            },
+            "bulletPoints": [],
+            "branding": {},
+            "classifications": [
+                {
+                    "classification": {
+                        "id": "1206",
+                        "description": "Konstruksi"
+                    },
+                    "subclassification": {
+                        "id": "6119",
+                        "description": "Manajemen Proyek"
+                    }
+                }
+            ],
+            "companyName": "Schneider Electric",
+            "companyProfileStructuredDataId": 2948,
+            "displayType": "standard",
+            "id": "80135751",
+            "isFeatured": false,
+            "listingDate": "2024-11-12T09:27:37Z",
+            "listingDateDisplay": "11 hari yang lalu",
+            "locations": [
+                {
+                    "label": "Jakarta Raya",
+                    "countryCode": "ID",
+                    "seoHierarchy": [
+                        {
+                            "contextualName": "Jakarta Raya"
+                        }
+                    ]
+                }
+            ],
+            "roleId": "customer-project-manager",
+            "salaryLabel": "",
+            "solMetadata": {
+                "searchRequestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+                "jobId": "80135751",
+                "section": "MAIN",
+                "sectionRank": 1720,
+                "jobAdType": "ORGANIC",
+                "tags": {
+                    "mordor__flights": "mordor_510",
+                    "mordor__s": "1"
+                }
+            },
+            "teaser": "The main missions of the Field Services Senior Customer Project Manager are:\n§To manage execution of Field Services customers projects following ap...",
+            "title": "Customer Project Manager",
+            "tracking": "ewogICJ0b2tlbiI6ICI1MTk3ZTBiNi0wNzU1LTQxMjQtYTZhNi1mNTQ5ZGEwODY2YTlfMjAiCn0=",
+            "workTypes": [
+                "Full time"
+            ],
+            "workArrangements": {
+                "data": [
+                    {
+                        "id": "1",
+                        "label": {
+                            "text": "Kantor"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "totalCount": 3920,
+    "info": {
+        "timeTaken": 43,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_510"
+    },
+    "userQueryId": "API4338724991479539504",
+    "sortModes": [
+        {
+            "isActive": true,
+            "name": "Relevansi",
+            "value": "KeywordRelevance"
+        },
+        {
+            "isActive": false,
+            "name": "Tanggal",
+            "value": "ListedDate"
+        }
+    ],
+    "solMetadata": {
+        "requestToken": "f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+        "token": "0~f6a58600-ccbc-4bf2-bd12-b8af02f91d12",
+        "keywords": "software",
+        "sortMode": "RELEVANCE",
+        "pageSize": 20,
+        "pageNumber": 86,
+        "totalJobCount": 3920,
+        "tags": {
+            "mordor:searchMarket": "UNIFIED_ID",
+            "mordor:result_count_rst": "403",
+            "mordor:result_count_vec": "1",
+            "mordor:rt": "35",
+            "mordor_vs:retrieved_count": "38101",
+            "mordor:count_vec": "1",
+            "mordor__flights": "mordor_510",
+            "mordor__rbo_perfMng_p95_k20": "0.658",
+            "mordor:count_rst": "407",
+            "mordor:count_ir": "3519",
+            "mordor:result_count_ir": "3516"
+        }
+    },
+    "facets": {},
+    "searchParams": {
+        "sitekey": "ID-Main",
+        "sourcesystem": "houston",
+        "userid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "usersessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "eventcapturesessionid": "d89afcc9-eee2-4c71-842e-b6b56c89c5f6",
+        "page": "86",
+        "seekselectallpages": "true",
+        "keywords": "software",
+        "include": "seodata",
+        "locale": "id-ID",
+        "solid": "93c36c71-ca29-412a-b367-5d4d9b596c5b"
+    }
+}
